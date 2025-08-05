@@ -26,11 +26,11 @@ author:
   name             : "Tiffany Fu"
   pronouns         : # example: "she/her"  
   bio              : "A passionate high school student and dancer"
-  location         : "Earth"
-  employer         : "Unionville High School"
-  uri              : # URL
-  email            : "tiffany.jt.fu@gmail.com" 
-
+  Side bar 01      : "High Schooo Life"
+  Side bar 02      : "Dance competitions and Performances"
+  Side bar 03      : "Academic research and Social Practices"
+  Side bar 04      : "Volunteet Activities" 
+  Side bar 05      : "About me"
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
