@@ -14,17 +14,17 @@ main:
   - title: "Dance Performances"
     url: /Dance Performances/    
 
-  - title: "Academic Practice"
-    url: /Academic & Social Practice/    
+  - title: "Academic Resercher"
+    url: /Academic Resercher/    
     
+  - title: "Social Practice"
+    url: /Social Practice/
+        
   - title: "Volunteer"
     url: /Volunteer/
-        
+    
   - title: "About Me"
     url: /About Me/
-    
-  - title: "CV"
-    url: /cv/
     
   # - title: ""
   #   url: /cv-json/
