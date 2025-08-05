@@ -8,16 +8,16 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "High School Life"
+  - title: "School Life"
     url: /School Life/
 
-  - title: "Dance Competitions and Performances"
+  - title: "Dance Performances"
     url: /Dance Performances/    
 
-  - title: "Academic Research and Social Practice"
-    url: /Academic Social Practice/    
+  - title: "Academic Practice"
+    url: /Academic & Social Practice/    
     
-  - title: "Volunteer Activities"
+  - title: "Volunteer"
     url: /Volunteer/
         
   - title: "About Me"
