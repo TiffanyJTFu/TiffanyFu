@@ -9,21 +9,21 @@
 
 main:
   - title: "High School Life"
-    url: /publications/
+    url: /High School Life/
 
-  - title: "Dance Competitions and Performance"
+  - title: "High School Life"
     url: /talks/    
 
   - title: "Academic Research and Social Practice"
-    url: /teaching/    
+    url: /Academic Research and Social Practice/    
     
   - title: "Volunteer Activities"
-    url: /portfolio/
+    url: /Volunteer Activities/
         
   - title: "About Me"
-    url: /year-archive/
+    url: /About Me/
     
-  - title: ""
+  - title: "CV"
     url: /cv/
     
   # - title: ""
