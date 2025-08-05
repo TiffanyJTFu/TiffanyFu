@@ -33,13 +33,13 @@ author:
   Side bar 05      : "About me"
   # Academic websites
   academia         : # URL
-  About Me           : # URL - 
-  High School Life : ""
+  About Me         : "About Me"
+  High School Life : "High School Life"
   inspire-hep      : # URL
   impactstory      : # URL
-  Dance Competitions and Perormances           : ""
-  Academic Research and Social Practices        : # URL
-  Volunteeer Activities          : ""
+  Dance Competitions and Perormances           : " Dance Competitions and Perormances"
+  Academic Research and Social Practices        : "Academic Research and Social Practices"
+  Volunteeer Activities          : "Volunteeer Activities"
   researchgate     : # URL
   scopus           : # URL
 
