@@ -9,16 +9,16 @@
 
 main:
   - title: "High School Life"
-    url: /High School Life/
+    url: /School Life/
 
   - title: "Dance Competitions and Performances"
-    url: /Dance Competitions and Performances/    
+    url: /Dance Performances/    
 
   - title: "Academic Research and Social Practice"
-    url: /Academic Research and Social Practice/    
+    url: /Academic Social Practice/    
     
   - title: "Volunteer Activities"
-    url: /Volunteer Activities/
+    url: /Volunteer/
         
   - title: "About Me"
     url: /About Me/
