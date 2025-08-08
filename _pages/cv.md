@@ -52,16 +52,18 @@ ACHIEVEMENTS AND ACTIVITIES
     
   
   
-Skills
+WORK EXPERIENCE
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Resource - United Speakers Global (NPO)
+* Cashier March 2022 - Present Paris Groceries, Toronto, Ontario 
+  * Proactively assisted customers in making informed purchasing decisions - Vigorously managed and 
+  optimized inventory levels, ensuring seamless stock availability
 
-Publications
+  * Delivered superior customer service by promptly addressing and resolving customer issues 
+  * Led new hires through rigorous training, significantly boosting team performance and efficiency 
+
+
+VOLUNTEER EXPERIENCE
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
