@@ -4,7 +4,7 @@ collection: talks
 type: "Believe dance competitions"
 permalink: /talks/DancePerformance1
 venue: 
-date: 2025-01-18
+date:  2024, 2025
 location: "Toronto, Canada"
 ---
 
