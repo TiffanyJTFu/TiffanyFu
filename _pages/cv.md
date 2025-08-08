@@ -24,23 +24,17 @@ ACHIEVEMENTS AND ACTIVITIES
 * Shad York 2025
   * Certificate of Completion
   * Participated as a team member in organizing the Open Day Celebration and the Evening Variety Show, and served as one of the Masters of Ceremonies (MCs) for the events
-
 * StarCatchers Dance Competition '25
-  * Solo- 1st place Platinum Award
-    
+  * Solo- 1st place Platinum Award    
 * Believe Dance Competition '25
   * Solo- 1st place Platinum Award
-    
 * Toronto MUN (Module UN) competition 03/2025
-  
 * Collaborated on the LT Social Science Research Project, led by Professor Tao Wang from the University of Toronto (05/2024 - 11/2024) 
   * Certificate of Completion
   * Learning Dedication Award
- 
 * Participate on Summer fairs and open-air movies night as sales angels to donate to charity (08/2024)
 * Brown University, Pre-College course in Leadership and Social Change (06/2024 - 07/2024)
   * Certificate of Completion
- 
 * StarCatchers Dance Competition '24
   * Solo- 2nd place Overall Award
   * Top Soloist Performer Award
@@ -54,7 +48,8 @@ ACHIEVEMENTS AND ACTIVITIES
 * •	Beijing Dance Academy - Chinese Dance Certification
   * Level 6
 *  Olympian Swimming Certification
-  * Level 12 
+  * Level 12
+    
   
   
 Skills
