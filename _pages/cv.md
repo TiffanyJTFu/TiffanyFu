@@ -68,13 +68,13 @@ VOLUNTEER EXPERIENCE
  * 2023 Markham-Milliken Children's Festival - Vendor Load-in Assistant 09/2024
    * Aided coordination amongst a team of volunteers, ensuring optimal vendor support and problem
   resolution
-  * Supported event setup by coordinating vendor arrivals and equipment staging. - Collaborated with
+   * Supported event setup by coordinating vendor arrivals and equipment staging. - Collaborated with
   event staff to manage load-in logistics
    * Maintained a safe and organized load-lin environment by guiding vendors through established 
   procedures. 
-  * Demonstrated strong leadership, organizational and problem solving skills to execute a - well-
+   * Demonstrated strong leadership, organizational and problem solving skills to execute a - well-
   organized event 
-  * Utilized fluent Mandarin skills to enhance communication and guest experiences, fostering 
+   * Utilized fluent Mandarin skills to enhance communication and guest experiences, fostering 
   inclusivity and promoting cultural empathy 
 * 2024 [Go With Love] Charity Event 08/2024
   * Participate in the Bazaar and Art Auction, with proceeds donated to the SickKids Foundation
