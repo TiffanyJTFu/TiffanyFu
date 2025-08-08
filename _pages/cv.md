@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /Resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,11 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+OBJECTIVES
+======
+* Seeking a challenging position as Math Tutor within a growth-oriented organization where my experience and skills can extensively apply. 
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ontario Secondary School Diploma (OSSD) 
+Unionville High School 09/2022 - Present, Markham, Ontario 
+Pursuing additional certification in Arts Unionville Dance Program 
 
 Work experience
 ======
