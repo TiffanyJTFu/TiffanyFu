@@ -16,8 +16,8 @@ OBJECTIVES
 Education
 ======
 * Ontario Secondary School Diploma (OSSD) 
-Unionville High School 09/2022 - Present, Markham, Ontario 
-Pursuing additional certification in Arts Unionville Dance Program 
+* Unionville High School 09/2022 - Present, Markham, Ontario 
+* Pursuing additional certification in Arts Unionville Dance Program 
 
 Work experience
 ======
