@@ -65,18 +65,74 @@ WORK EXPERIENCE
 
 VOLUNTEER EXPERIENCE
 ======
+ * 2023 Markham-Milliken Children's Festival - Vendor Load-in Assistant 09/2024
+   * Aided coordination amongst a team of volunteers, ensuring optimal vendor support and problem
+  resolution
+  * Supported event setup by coordinating vendor arrivals and equipment staging. - Collaborated with
+  event staff to manage load-in logistics
+   * Maintained a safe and organized load-lin environment by guiding vendors through established 
+  procedures. 
+  * Demonstrated strong leadership, organizational and problem solving skills to execute a - well-
+  organized event 
+  * Utilized fluent Mandarin skills to enhance communication and guest experiences, fostering 
+  inclusivity and promoting cultural empathy 
+* 2024 [Go With Love] Charity Event 08/2024
+  * Participate in the Bazaar and Art Auction, with proceeds donated to the SickKids Foundation
+  * Prepare handmade items for the Bazaar
+  * Be a sales ambassador, helping to sell all handmade items, with all earnings going to the SickKids 
+  Foundation 
+* 2023 Markham-Milliken Children's Festival - Event Assistant 09/2023
+  * Led coordination amongst a team of volunteers, ensuring optimal guest support and - problem 
+  resolution
+  * Chief liaison for guest inquiries, proactively offering guidance and assistance - Demonstrated strong 
+  leadership, organizational and problem solving skills to execute a well-organized event 
+  * Utilized fluent Mandarin skills to enhance communication and guest experiences, fostering 
+  inclusivity and promoting cultural empathy 
+* MCKAY Art Center’s Summer Camp - Event Assistant 08/2023
+  * Collaborated with a team of volunteers to deliver superior service to summer camper - participants
+  * Efficiently resolved tensions and conflicts, applying strong interpersonal and critical thinking skills
+  * Supported camp leaders and campers by coordinating activities and promoting communication
+* Varley Art Gallery - Canada Day Canvas Challenge - Program Assistant 07/09/2023
+  * Created a welcoming atmosphere and facilitated activities for program participants - Managed the 
+  setup and breakdown of equipment and materials while promoting working - safety for participants 
+  * Fostered an engaging and uplifting educational experience overall
+* Markham Museum March Break Event - Assistant/Exhibition Attendant 03/13/2023
+  * Welcomed visitors to exhibition spaces and provided educational guidance on gallery - activities
+  * Collaborated with a team of volunteers to enhance visitor engagement with hands-on - activities
+  * Addressed safety concerns, maintaining a secure and positive environment Varley Art Gallery - Fall
+* Session - Program Assistant 12/2022
+  * Welcome participants and actively supported program activities
+  * Managed setup and takedown, coordinating closely with instructors for material needs - Monitored 
+  participant experience, ensuring a positive and educational outcome throughout
+
+
+
+
+
+  
+  
+  
+  
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+LANGUAGES
 ======
+ * English
+ * Mandarin
+ * French 
+  
+  
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+REFERENCE
 ======
+Available upon request
+  
+  
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
