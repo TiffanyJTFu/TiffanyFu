@@ -45,9 +45,9 @@ ACHIEVEMENTS AND ACTIVITIES
 * Royal Academy of Dance Certification
   * Intermediate (Completed)
   * Intermediate Foundations (Completed)
-* •	Beijing Dance Academy - Chinese Dance Certification
+* Beijing Dance Academy - Chinese Dance Certification
   * Level 6
-*  Olympian Swimming Certification
+* Olympian Swimming Certification
   * Level 12
     
   
