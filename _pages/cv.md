@@ -104,39 +104,15 @@ VOLUNTEER EXPERIENCE
   * Welcome participants and actively supported program activities
   * Managed setup and takedown, coordinating closely with instructors for material needs - Monitored 
   participant experience, ensuring a positive and educational outcome throughout
-
-
-
-
-
-  
-  
-  
-  
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+ 
 LANGUAGES
 ======
  * English
  * Mandarin
  * French 
   
-  
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 REFERENCE
 ======
 Available upon request
   
-  
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
