@@ -14,6 +14,7 @@ I won the gold medal in Believe dance competition.
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dance10.JPG)
 
+
 ---
 title: "Star Catchers Dance Competitions Night"
 collection: talks
