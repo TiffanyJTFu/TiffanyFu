@@ -21,10 +21,9 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Shad York 2025
+  * Certificate of Completion
+  * Participated as a team member in organizing the Open Day Celebration and the Evening Variety Show, and served as one of the Masters of Ceremonies (MCs) for the events
 
 * Fall 2015: Research Assistant
   * GitHub University
