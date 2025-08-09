@@ -3,9 +3,18 @@ title: "13 years of Dancing Career Moment"
 collection: talks
 type: "Tutorial"
 permalink: /talks/Danceand
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley, CA, USA"
+venue: ""
+date: 
+location: "Toronto, Canada"
 ---
 
-![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/danceballet1.JPEG)
+![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetech1.jpg)
+
+![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetech2.jpg)
+
+![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetech3.jpg)
+
+![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetech4.jpg)
+
+![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetech5.jpg)
+
