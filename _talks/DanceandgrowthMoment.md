@@ -16,4 +16,4 @@ location: "Toronto, Canada"
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetech4.jpg)
 
-![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetech5.jpg)
+![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetech5.JPG)
