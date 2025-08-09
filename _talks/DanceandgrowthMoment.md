@@ -1,7 +1,7 @@
 ---
 title: "13 years of Dancing Career Moment"
 collection: talks
-type: "Tutorial"
+type: "Talks"
 permalink: /talks/Danceand
 venue: ""
 date: 
