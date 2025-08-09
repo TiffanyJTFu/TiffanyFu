@@ -2,7 +2,7 @@
 title: "Believe Competitions Night"
 collection: talks
 type: "Believe dance competitions"
-permalink: /talks/DancePerformance1
+permalink: /talks/DanceCompetitions1
 venue: 
 date:  2024, 2025
 location: "Toronto, Canada"
