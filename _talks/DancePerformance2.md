@@ -13,6 +13,7 @@ Dance: Timeless Love (the gold medal) in Star Catchers Dance Competitions 2025.
 
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetimelessloveb1.JPG)
+
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetimelessloveb3.JPG)
 
 
