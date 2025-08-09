@@ -1,7 +1,7 @@
 ---
 title: "Wonderful Stage Performance"
 collection: talks
-type: "Talk"
+type: "WonderfulStagePerformance"
 permalink: /talks/WonderfulStagePerformance
 venue: ""
 date: 
