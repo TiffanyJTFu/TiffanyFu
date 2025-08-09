@@ -8,4 +8,7 @@ date:
 location: "Toronto, Canada"
 ---
 
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
+[▶️ Watch YouTube Video]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=DYptgVvkVLQ&list=RDDYptgVvkVLQ&start_radio=1)
+
+
+![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetimelessloveb1.JPG)
