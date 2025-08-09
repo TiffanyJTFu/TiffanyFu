@@ -2,7 +2,7 @@
 title: "Wonderful Stage Performance"
 collection: talks
 type: "Talk"
-permalink: /talks/wonderfulstageperformance
+permalink: /talks/WonderfulStagePerformance
 venue: ""
 date: 
 location: "Toronto, Canada"
