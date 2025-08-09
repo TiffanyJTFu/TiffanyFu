@@ -2,7 +2,7 @@
 title: "Star Catchers Dance Competitions Night"
 collection: talks
 type: "Star Catchers Dance Competitions"
-permalink: /talks/DancePerformance2
+permalink: /talks/DanceCompetitions2
 venue: 
 date: 2025-03-18
 location: "Toronto, Canada"
