@@ -2,7 +2,7 @@
 title: "13 years of Dancing Career Moment"
 collection: talks
 type: "DanceandGrowthMoment"
-permalink: /talks/DanceandGrowthMoment
+permalink: /_talks/DanceandGrowthMoment
 venue: ""
 date: 
 location: "Toronto, Canada"
