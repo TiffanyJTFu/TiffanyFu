@@ -1,11 +1,11 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "Wonderful Stage Performance"
 collection: talks
 type: "Talk"
 permalink: /talks/WonderfulStagePerformance
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, CA, USA"
+venue: ""
+date: 
+location: "Toronto, Canada"
 ---
 
 This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
