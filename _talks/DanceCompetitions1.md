@@ -13,10 +13,14 @@ location: "Toronto, Canada"
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancepointingtothemoons.PNG)
 
 
+
+
 **Timeless Love – Solo | 1st Place Platinum Award | StarCatchers Dance Competition 2025**
 <a href="https://youtu.be/isbpR2lO6R4" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetimelessloveb1.JPG)
+
+
 
 
 ## Believe Dance Competition
@@ -24,6 +28,8 @@ location: "Toronto, Canada"
 <a href="https://youtu.be/isbpR2lO6R4" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancepointingtothemoonb.PNG)
+
+
 
 
 **Timeless Love – Solo | 1st Place Platinum Award | Believe Dance Competition 2025**
