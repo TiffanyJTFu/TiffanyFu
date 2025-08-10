@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-OBJECTIVES
-======
-* Seeking a challenging position as Math Tutor within a growth-oriented organization where my experience and skills can extensively apply. 
-
 Education
 ======
 * Ontario Secondary School Diploma (OSSD) 
@@ -21,6 +17,8 @@ Education
 
 ACHIEVEMENTS AND ACTIVITIES
 ======
+* Ignite the Stage 09/2025 
+  * Served as Sponsorship Coordinator at Ignite Fair organization, actively participating in the planning and execution of the 'Ignite the Stage' event
 * Shad York 2025
   * Certificate of Completion
   * Participated as a team member in organizing the Open Day Celebration and the Evening Variety Show, and served as one of the Masters of Ceremonies (MCs) for the events
@@ -43,18 +41,15 @@ ACHIEVEMENTS AND ACTIVITIES
   * Solo - Diamond Rank, 2nd Place Overall Award
   * Judge's Choice Award
 * Royal Academy of Dance Certification
-  * Intermediate (Completed)
-  * Intermediate Foundations (Completed)
+  * Intermediate
+  * Intermediate Foundations
 * Beijing Dance Academy - Chinese Dance Certification
   * Level 6
 * Olympian Swimming Certification
-  * Level 12
-    
-  
+  * Level 12  
   
 WORK EXPERIENCE
 ======
-* Resource - United Speakers Global (NPO)
 * Cashier March 2022 - Present Paris Groceries, Toronto, Ontario 
   * Proactively assisted customers in making informed purchasing decisions - Vigorously managed and 
   optimized inventory levels, ensuring seamless stock availability
@@ -62,10 +57,9 @@ WORK EXPERIENCE
   * Delivered superior customer service by promptly addressing and resolving customer issues 
   * Led new hires through rigorous training, significantly boosting team performance and efficiency 
 
-
 VOLUNTEER EXPERIENCE
 ======
- * 2023 Markham-Milliken Children's Festival - Vendor Load-in Assistant 09/2024
+ * 2024 Markham-Milliken Children's Festival - Vendor Load-in Assistant 09/2024
    * Aided coordination amongst a team of volunteers, ensuring optimal vendor support and problem
   resolution
    * Supported event setup by coordinating vendor arrivals and equipment staging. - Collaborated with
