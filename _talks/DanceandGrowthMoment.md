@@ -7,7 +7,6 @@ venue:
 date: 2025-03-18
 location: "Toronto, Canada"
 ---
-
 ## A Journey from Little Leaps to Leading Roles
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetech2.jpg)
 
