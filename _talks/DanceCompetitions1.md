@@ -4,7 +4,6 @@ collection: talks
 type: "Stage Performance"
 permalink: /talks/DanceCompetitions1
 venue: 
-date:  2024, 2025
 location: "Toronto, Canada"
 ---
 ## StarCatchers Dance Competition
