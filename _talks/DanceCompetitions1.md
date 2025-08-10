@@ -9,7 +9,7 @@ location: "Toronto, Canada"
 ---
 
 Dance: Timeless Love (the gold medal) in Star Catchers Dance Competitions 2025.  
-[▶️ Watch YouTube Video](https://youtu.be/isbpR2lO6R4)
+<a href="https://youtu.be/isbpR2lO6R4" target="_blank">▶️ Watch YouTube Video</a>
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetimelessloveb1.JPG)
 
