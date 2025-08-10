@@ -1,12 +1,18 @@
 ---
-title: "Stage Performance"
+title: ""
 collection: talks
 type: "Stage Performance"
 permalink: /talks/DanceCompetitions1
 venue: 
 location: "Toronto, Canada"
 ---
-## StarCatchers Dance Competition
+
+# Stage Performance
+
+<!-- Reduce space by using a smaller heading or add a negative margin -->
+<div style="margin-top:-20px;"></div>
+
+### StarCatchers Dance Competition
 **Pointing to the Moon – Solo | 2nd Place Overall, Top Soloist Performer | StarCatchers Dance Competition 2024**
 <a href="https://youtu.be/isbpR2lO6R4" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
 
