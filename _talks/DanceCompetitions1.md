@@ -18,7 +18,7 @@ Dance: Point to the Moon (the gold medal) in Star Catchers Dance Competitions 20
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancepointingtothemoons.PNG)
 
-Dance: Timeless Love (1st place Platinum Award) in Believe dance competition, 2025.  
+Dance: Timeless Love (1st place Platinum Award) in Believe dance competition 2025.  
 <a href="https://youtu.be/isbpR2lO6R4" target="_blank">▶️ Watch YouTube Video</a>
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetimelesslovewb.PNG)
