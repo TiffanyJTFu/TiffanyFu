@@ -59,6 +59,8 @@ WORK EXPERIENCE
 
 VOLUNTEER EXPERIENCE
 ======
+ * Community Outreach Volunteer – MPP Team 08/2025
+   * Volunteered with Markham MPP Billy Pang’s team to distribute community information leaflets and support local outreach efforts
  * 2024 Markham-Milliken Children's Festival - Vendor Load-in Assistant 09/2024
    * Aided coordination amongst a team of volunteers, ensuring optimal vendor support and problem
   resolution
