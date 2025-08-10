@@ -8,10 +8,9 @@ date: 2025-03-18
 location: "Toronto, Canada"
 ---
 
+![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetech2.jpg)
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetech1.jpg)
-
-![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetech2.jpg)
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetech3.jpg)
 
