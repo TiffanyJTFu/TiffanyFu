@@ -8,7 +8,7 @@ date:  2024, 2025
 location: "Toronto, Canada"
 ---
 
-StarCatchers Dance Competition
+## StarCatchers Dance Competition
 Timeless Love – Solo | 1st Place Platinum Award | StarCatchers Dance Competition 2025
 <a href="https://youtu.be/isbpR2lO6R4" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
 
@@ -19,7 +19,7 @@ Pointing to the Moon – Solo | 2nd Place Overall, Top Soloist Performer | StarC
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancepointingtothemoons.PNG)
 
-Believe Dance Competition
+## Believe Dance Competition
 Timeless Love – Solo | 1st Place Platinum Award | Believe Dance Competition 2025
 <a href="https://youtu.be/isbpR2lO6R4" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
 
