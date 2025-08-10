@@ -4,12 +4,12 @@ title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /Resume
+  - /RESUME
 ---
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
 * Ontario Secondary School Diploma (OSSD) 
 * Unionville High School 09/2022 - Present, Markham, Ontario 
