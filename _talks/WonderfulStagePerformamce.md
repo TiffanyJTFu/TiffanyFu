@@ -4,7 +4,7 @@ collection: talks
 type: "WonderfulStagePerformance"
 permalink: /talks/WonderfulStagePerformance
 venue: ""
-date: 2025
+date: 2025-03-18
 location: "Toronto, Canada"
 ---
 
