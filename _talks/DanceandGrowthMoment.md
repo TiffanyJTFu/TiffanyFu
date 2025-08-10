@@ -1,5 +1,5 @@
 ---
-title: "Dance and Growth Moment"
+title: "Dancing Through the Years: A Journey from Little Leaps to Leading Roles"
 collection: talks
 type: "danceandgrowthmoment"
 permalink: /talks/danceandgrowthmoment
