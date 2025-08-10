@@ -22,7 +22,7 @@ location: "Toronto, Canada"
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancepeacock2.JPG)
 
-![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancepointingtothemoonb2.JPEG)
+![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancepointingtothemoonb2.jpeg)
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetimelesslovew1.JPG)
 
