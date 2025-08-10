@@ -17,3 +17,12 @@ location: "Toronto, Canada"
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetech4.jpg)
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetech5.JPG)
+
+![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancezhexian1.JPG)
+
+![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancepeacock2.JPG)
+
+![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/danceballet1.JPG)
+
+![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetimelesslove1.JPG)
+
