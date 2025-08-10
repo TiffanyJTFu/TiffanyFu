@@ -8,7 +8,7 @@ date: 2025-03-18
 location: "Toronto, Canada"
 ---
 
-**A Journey from Little Leaps to Leading Roles**
+## A Journey from Little Leaps to Leading Roles
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetech2.jpg)
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetech1.jpg)
