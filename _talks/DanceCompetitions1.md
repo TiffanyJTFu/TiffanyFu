@@ -27,7 +27,7 @@ location: "Toronto, Canada"
 **Pointing to the Moon – Solo | Diamond Rank, 2nd Place Overall, Judge's Choice Award | Believe Dance Competition 2024**  
 <a href="https://youtu.be/isbpR2lO6R4" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
 
-![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancepointingtothemoonb.PNG)
+![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancepointingtothemoonb3.PNG)
 
 
 
