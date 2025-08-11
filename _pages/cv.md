@@ -60,7 +60,11 @@ WORK EXPERIENCE
 VOLUNTEER EXPERIENCE
 ======
  * **Community Outreach Volunteer – MPP Team 08/2025**
-   * Volunteered with Markham MPP Billy Pang’s team to distribute community information leaflets and support local outreach efforts**
+   * Volunteered with Markham MPP Billy Pang’s team to distribute community information leaflets and support local outreach efforts
+ * **Volunteer English Tutor 05/2025 - 06/2025**
+   * Tutored lower-grade immigrant students in English, focusing on basic language skills, vocabulary building, and especially classroom communication
+   * Adapted tutoring strategies to suit varying English proficiency levels and cultural backgrounds
+   * Demonstrated patience, empathy, and communication skills while fostering a supportive learning atmosphere
  * **2024 Markham-Milliken Children's Festival - Vendor Load-in Assistant 09/2024**
    * Aided coordination amongst a team of volunteers, ensuring optimal vendor support and problem
   resolution
@@ -107,8 +111,6 @@ LANGUAGES
  * **Mandarin**
  * **French** 
   
-REFERENCE
-======
-Available upon request
+
   
 
