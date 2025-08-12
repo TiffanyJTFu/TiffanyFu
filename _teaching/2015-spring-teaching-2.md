@@ -3,7 +3,7 @@ title: "Academic Research"
 collection: teaching
 type: "Academic Research"
 permalink: /teaching/2015-spring-teaching-1
-venue: 
+venue: "Toronto"
 date: 2015-01-01
 location: "Toronto Canada"
 ---
