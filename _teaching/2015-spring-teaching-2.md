@@ -13,7 +13,7 @@ This is a description of a teaching experience. You can use markdown like any ot
 1. Shad York 2025
   * Participated one research project "ICELERT"
   * Certificate of Completion
- ======
+ ===
 
 2. University of Toronto 2024
   * LT Social Science Research Project
