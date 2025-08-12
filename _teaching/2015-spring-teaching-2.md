@@ -13,6 +13,8 @@ Shad York 2025
 =====
   * Participated one research project "ICELERT"
   * Certificate of Completion
+
+    
     
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/shad5.jpg)
 
@@ -23,6 +25,8 @@ University of Toronto 2024
   * LT Social Science Research Project
  * Certificate of Completion
  * Learning Dedication Award
+
+
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject7.jpg)
 
