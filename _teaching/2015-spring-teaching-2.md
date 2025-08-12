@@ -1,7 +1,7 @@
 ---
 title: "Academic Research"
 collection: teaching
-type: 
+type: "Academic Research"
 permalink: /teaching/2015-spring-teaching-1
 venue: 
 date: 2015-01-01
