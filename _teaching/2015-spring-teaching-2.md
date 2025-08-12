@@ -10,18 +10,18 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Shad York 2025
+1. Shad York 2025
   * Participated one research project "ICELERT"
   * Certificate of Completion
  ======
 
-University of Toronto 2024
+2. University of Toronto 2024
   * LT Social Science Research Project
  * Certificate of Completion
  * Learning Dedication Award
 ======
 
-Brown University 2024
+3. Brown University 2024
   * Leading and Social Change Research Project
   * Certificate of Completion
 ======
