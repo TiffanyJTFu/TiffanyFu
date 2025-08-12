@@ -19,9 +19,10 @@ University of Toronto 2024
   * LT Social Science Research Project
  * Certificate of Completion
  * Learning Dedication Award
+   
 ======
 
 Brown University 2024
-  -Leading and Social Change Research Project
-  -Certificate of Completion
+  * Leading and Social Change Research Project
+  * Certificate of Completion
 ======
