@@ -38,11 +38,13 @@ location: "Toronto, Canada"
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetimelesslovewb.PNG)
 
 
+
 ## Studio Performance Highlights
 **Don Quixote**
 <a href="https://youtu.be/TQqILM71ags" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/danceballet2.JPEG)
+
 
 
 **Peacock**
@@ -51,16 +53,12 @@ location: "Toronto, Canada"
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancepeacock1.JPG)
 
 
+
 **Zhe-Xian**
 <a href="https://youtu.be/xomFrrJE3mM" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancezhexian.JPG)
 
-
-**Dunhuang**
-<a href="https://youtu.be/isbpR2lO6R4" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
-
-![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancedunhuang.JPG)
 
 
 **Rising Sun**
@@ -69,10 +67,19 @@ location: "Toronto, Canada"
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancerisingsun.JPG)
 
 
+
+**Dunhuang**
+<a href="https://youtu.be/isbpR2lO6R4" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
+
+![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancedunhuang.JPG)
+
+
+
 **Chopsticks**
 <a href="https://youtu.be/isbpR2lO6R4" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancechopsticks.jpg)
+
 
 
 ## Arts Unionville - Performance Highlights
