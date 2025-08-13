@@ -33,7 +33,7 @@ location: "Toronto, Canada"
 
 
 **Timeless Love – Solo | 1st Place Platinum Award | Believe Dance Competition 2025**
-<a href="https://youtu.be/isbpR2lO6R4" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
+<a href="https://youtu.be/z81euMPFEm4 " target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetimelesslovewb.PNG)
 
@@ -46,13 +46,13 @@ location: "Toronto, Canada"
 
 
 **Peacock**
-<a href="https://youtu.be/isbpR2lO6R4" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
+<a href="https://youtu.be/_IjY1q_Lz6U" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancepeacock1.JPG)
 
 
 **Zhe-Xian**
-<a href="https://youtu.be/isbpR2lO6R4" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
+<a href="https://youtu.be/xomFrrJE3mM" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancezhexian.JPG)
 
