@@ -24,6 +24,64 @@ To address this need, Leading Tomorrow, a non-profit organization, has launched 
 
 * Generate scientific insight: Understand the impact of parenting and educational methods on youth development.
 
+<span style="font-size:2.5em;"><b>Project Timeline and Details</b></span> 
+
+**Phase I: Recruitment and Team Formation**
+
+Timeframe: April 20 – May 10, 2024
+Eligibility: Students entering Grades 8–12 in September 2024; strong academic performance; interest in social issues; strong sense of teamwork.
+
+**Phase II: Research Training (Three 1.5-hour sessions)**
+
+* **Lesson 1: Introduction to Social Science Research**
+Date: May 18, 2024
+Topics: Importance, principles, and methods of social science research (qualitative and quantitative); research ethics; how to design a questionnaire; understanding data reliability and validity.
+
+* **Lesson 2: Topic Exploration and Survey Design**
+Date: May 25, 2024
+Topics: Cross-cultural parenting methods; impacts of parenting on adolescent well-being; group discussions and case studies; group work on first draft of survey questionnaire.
+
+* **Lesson 3: Research Design and Field Techniques**
+Date: June 1, 2024
+Topics: Refining research questions; finalizing questionnaire design; sampling methods; field research techniques.
+
+**Phase III: Field Survey and Interviews**
+
+**Timeframe: June 29 – August 16, 2024**
+**Activities:**
+
+* Students work in groups to conduct field research through surveys and in-depth interviews.
+
+* Each group explores a unique sub-topic related to immigrant parenting and adolescent health.
+
+* Regular online meetings to discuss progress, challenges, and solutions.
+
+**Phase IV: Data Analysis and Report Writing**
+
+* **Lesson 4: Data Analysis Skills**
+**Date:** August 17, 2024 (online training)
+**Topics:** Data organization and analysis techniques; introduction to using Python for social research.
+
+* **Report Writing Period: August 18 – September 17, 2024**
+**Activities:** Group-based data analysis, interpretation of findings, and report writing. Selected reports will be considered for publication.
+
+**Phase V: Results Sharing and Feedback**
+
+**Date:** Late September 2024
+**Format:** Online or offline presentation session
+**Activities:**
+
+* Participants present their findings.
+
+* Experts are invited to provide feedback and commentary.
+
+* Open discussions between students and experts to encourage reflection and growth.
+
+**Project Supervisor**
+
+The project will be led by **Dr. Tao Wang**, Assistant Professor at the School of Information, University of Toronto. Dr. Wang specializes in online communication, knowledge management, and behavioral analysis. His research integrates social psychology with quantitative methods such as natural language processing and machine learning. Passionate about youth development, Dr. Wang has been an active volunteer in several youth organizations and will provide mentorship and academic guidance throughout the project.
+
+
 ![SocialScience12](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject12.jpg)
 
 ![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject1.jpg)
