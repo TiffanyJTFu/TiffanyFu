@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/Innovation-Project
 ---
-<br/>
+
 **Innovation Project:** ICELERT
   * Participated one research project "ICELERT"
   * Certificate of Completion    
