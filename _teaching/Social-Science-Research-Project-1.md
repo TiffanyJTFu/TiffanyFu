@@ -6,7 +6,7 @@ permalink: /teaching/Social-Science-Research-Project-1
 venue: ""
 ---
 
-## Brown University 2024
+**Brown University 2024**
   * Leading and Social Change Research Project
   * Certificate of Completion
 
