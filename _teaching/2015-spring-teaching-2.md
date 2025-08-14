@@ -17,21 +17,21 @@ Leading Tomorrow, a non-profit organization, has specially initiated and organiz
 
 ![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject1.jpg)
 
-![SocialScience02](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject2.jpg)
+![SocialScience02](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject2.JPG)
 
 ![SocialScience03](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject3.jpg)
 
-![SocialScience05](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject5.jpg)
+![SocialScience05](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject5.JPG)
 
 ![SocialScience07](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject7.jpg)
 
 ![SocialScience08](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject8.jpg)
 
-![SocialScience09](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject9.jpg)
+![SocialScience09](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject9.JPG)
 
-![SocialScience010](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject10.jpg)
+![SocialScience10](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject10.JPG)
 
-![SocialScience11](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject11.jpg)
+![SocialScience11](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject11.JPG)
 
 
 Brown University 2024
