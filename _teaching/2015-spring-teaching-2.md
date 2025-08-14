@@ -18,17 +18,17 @@ To address this need, Leading Tomorrow, a non-profit organization, has launched 
 
 <span style="font-size:2.5em;"><b>Project Objectives</b></span> 
 
-* Raise social awareness: Promote care and responsibility for the physical and mental health of adolescents from immigrant families.
+* **Raise social awareness:** Promote care and responsibility for the physical and mental health of adolescents from immigrant families.
 
-* Develop research skills: Provide participants with foundational knowledge and skills in social science research.
+* **Develop research skills:** Provide participants with foundational knowledge and skills in social science research.
 
-* Generate scientific insight: Understand the impact of parenting and educational methods on youth development.
+* **Generate scientific insight:** Understand the impact of parenting and educational methods on youth development.
 
 <span style="font-size:2.5em;"><b>Project Timeline and Details</b></span> 
 
 **Phase I: Recruitment and Team Formation**
 
-Timeframe: April 20 – May 10, 2024
+**Timeframe:** April 20 – May 10, 2024
 Eligibility: Students entering Grades 8–12 in September 2024; strong academic performance; interest in social issues; strong sense of teamwork.
 
 **Phase II: Research Training (Three 1.5-hour sessions)**
@@ -59,7 +59,7 @@ Topics: Refining research questions; finalizing questionnaire design; sampling m
 **Phase IV: Data Analysis and Report Writing**
 
 * **Lesson 4: Data Analysis Skills**
-**Date:** August 17, 2024 (online training)
+**Date:** August 17, 2024
 **Topics:** Data organization and analysis techniques; introduction to using Python for social research.
 
 * **Report Writing Period: August 18 – September 17, 2024**
@@ -67,8 +67,8 @@ Topics: Refining research questions; finalizing questionnaire design; sampling m
 
 **Phase V: Results Sharing and Feedback**
 
-**Date:** Late September 2024
-**Format:** Online or offline presentation session
+**Date:** Late October 2024
+**Format:** presentation session
 **Activities:**
 
 * Participants present their findings.
