@@ -13,9 +13,23 @@ In the context of globalization, the relationship between immigrant families' ed
 
 Leading Tomorrow, a non-profit organization, has specially initiated and organized a social research project on "Cross-cultural Education Methods and Adolescents' Physical and Mental Health" to gain a deeper understanding of how the education methods of immigrant families affect adolescents' mental health and social adaptability. Through this survey, the key factors affecting adolescent growth can be revealed, providing a scientific basis for the formulation of more effective support strategies and intervention measures, thereby helping adolescents from immigrant families grow and develop better.
 
-
+![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject12.jpg)
 
 ![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject1.jpg)
+
+![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject2.jpg)
+
+![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject3.jpg)
+
+![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject4.jpg)
+
+![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject5.jpg)
+
+![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject6.jpg)
+
+![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject7.jpg)
+
+![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject8.jpg)
 
 
 
