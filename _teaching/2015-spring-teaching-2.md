@@ -22,7 +22,7 @@ To address this need, Leading Tomorrow, a non-profit organization, has launched 
 
 **Project Timeline and Details**
 <br><br>**Phase I: Recruitment and Team Formation**
-**Timeframe:** April 20 – May 10, 2024
+<br>**Timeframe:** April 20 – May 10, 2024
 <br>**Eligibility:** Students entering Grades 8–12 in September 2024; strong academic performance; interest in social issues; strong sense of teamwork.
 
 **Phase II: Research Training**
@@ -39,7 +39,7 @@ To address this need, Leading Tomorrow, a non-profit organization, has launched 
 <br>**Topics:** Refining research questions; finalizing questionnaire design; sampling methods; field research techniques.
 
 **Phase III: Field Survey and Interviews**
-**Timeframe: June 29 – August 16, 2024**
+<br>**Timeframe: June 29 – August 16, 2024**
 <br>**Activities:**
 
 * Students work in groups to conduct field research through surveys and in-depth interviews.
@@ -57,7 +57,7 @@ To address this need, Leading Tomorrow, a non-profit organization, has launched 
 <br>**Activities:** Group-based data analysis, interpretation of findings, and report writing. Selected reports will be considered for publication.
 
 **Phase V: Results Sharing and Feedback**
-**Date:** Late October 2024
+<br>**Date:** Late October 2024
 <br>**Format:** presentation session
 <br>**Activities:**
 
