@@ -8,10 +8,13 @@ location: "Toronto Canada"
 
 Project Topic: Cross-cultural Education Methods and Adolescents' Physical and Mental Health
 =====
-<span style="font-size:2.5em;"><b>Project Background:</b></span> 
-In the context of globalization, the relationship between immigrant families' education methods and adolescents' physical and mental health has received increasing attention. Adolescents from immigrant families face unique challenges, including cultural conflicts, identity problems, and pressure to adapt to a new environment. These factors may affect their physical and mental health, and depression and even suicide incidents are reported from time to time; and immigrant parents also face challenges and pressures in how to cultivate and support their children in a new environment. These severe pressures should not be borne independently by each family, but should be cared for and faced by the society together.
+<span style="font-size:2.5em;"><b>Project Background</b></span> 
+=====
+In the context of globalization, increasing attention has been paid to the relationship between the educational practices of immigrant families and the physical and mental health of adolescents. Young people from immigrant backgrounds face unique challenges such as cultural conflict, identity issues, and the pressure to adapt to a new environment. These stressors can have significant impacts on their well-being, with reported cases of depression and even suicide. At the same time, immigrant parents also face difficulties in navigating parenting and supporting their children in a new cultural and social context.
 
-Leading Tomorrow, a non-profit organization, has specially initiated and organized a social research project on "Cross-cultural Education Methods and Adolescents' Physical and Mental Health" to gain a deeper understanding of how the education methods of immigrant families affect adolescents' mental health and social adaptability. Through this survey, the key factors affecting adolescent growth can be revealed, providing a scientific basis for the formulation of more effective support strategies and intervention measures, thereby helping adolescents from immigrant families grow and develop better.
+These pressures should not be borne by individual families alone—they are societal challenges that require collective awareness and support.
+
+To address this need, Leading Tomorrow, a non-profit organization, has launched a social research project titled “Cross-cultural Education Methods and Adolescents’ Physical and Mental Health.” The project aims to deepen understanding of how parenting and education styles within immigrant families affect adolescents’ mental health and social adaptability. By conducting this research, the project seeks to identify key factors influencing youth development, providing a scientific basis for more effective support strategies and interventions that can help immigrant adolescents thrive.
 
 ![SocialScience12](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject12.jpg)
 
