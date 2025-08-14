@@ -29,7 +29,7 @@ To address this need, Leading Tomorrow, a non-profit organization, has launched 
 **Phase I: Recruitment and Team Formation**
 
 **Timeframe:** April 20 – May 10, 2024
-## **Eligibility:** Students entering Grades 8–12 in September 2024; strong academic performance; interest in social issues; strong sense of teamwork.
+<br>**Eligibility:** Students entering Grades 8–12 in September 2024; strong academic performance; interest in social issues; strong sense of teamwork.
 
 **Phase II: Research Training (Three 1.5-hour sessions)**
 
