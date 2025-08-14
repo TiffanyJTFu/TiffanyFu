@@ -5,8 +5,7 @@ type: "Social Science Research Project"
 permalink: /teaching/2015-spring-teaching-1
 ---
 
-Project Topic: Cross-cultural Education Methods and Adolescents' Physical and Mental Health
-=====
+## Project Topic: Cross-cultural Education Methods and Adolescents' Physical and Mental Health
 **Project Background**
 
 In the context of globalization, increasing attention has been paid to the relationship between the educational practices of immigrant families and the physical and mental health of adolescents. Young people from immigrant backgrounds face unique challenges such as cultural conflict, identity issues, and the pressure to adapt to a new environment. These stressors can have significant impacts on their well-being, with reported cases of depression and even suicide. At the same time, immigrant parents also face difficulties in navigating parenting and supporting their children in a new cultural and social context.
