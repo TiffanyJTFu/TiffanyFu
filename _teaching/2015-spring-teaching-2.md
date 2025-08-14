@@ -34,21 +34,21 @@ To address this need, Leading Tomorrow, a non-profit organization, has launched 
 **Phase II: Research Training (Three 1.5-hour sessions)**
 
 * **Lesson 1: Introduction to Social Science Research**
-**Date:** May 18, 2024
-**Topics:** Importance, principles, and methods of social science research (qualitative and quantitative); research ethics; how to design a questionnaire; understanding data reliability and validity.
+<br>**Date:** May 18, 2024
+<br>**Topics:** Importance, principles, and methods of social science research (qualitative and quantitative); research ethics; how to design a questionnaire; understanding data reliability and validity.
 
 * **Lesson 2: Topic Exploration and Survey Design**
-**Date:** May 25, 2024
-**Topics:** Cross-cultural parenting methods; impacts of parenting on adolescent well-being; group discussions and case studies; group work on first draft of survey questionnaire.
+<br>**Date:** May 25, 2024
+<br>**Topics:** Cross-cultural parenting methods; impacts of parenting on adolescent well-being; group discussions and case studies; group work on first draft of survey questionnaire.
 
 * **Lesson 3: Research Design and Field Techniques**
-Date: June 1, 2024
-Topics: Refining research questions; finalizing questionnaire design; sampling methods; field research techniques.
+<br>**Date:** June 1, 2024
+<br>**Topics:** Refining research questions; finalizing questionnaire design; sampling methods; field research techniques.
 
 **Phase III: Field Survey and Interviews**
 
 **Timeframe: June 29 – August 16, 2024**
-**Activities:**
+<br>**Activities:**
 
 * Students work in groups to conduct field research through surveys and in-depth interviews.
 
@@ -59,17 +59,17 @@ Topics: Refining research questions; finalizing questionnaire design; sampling m
 **Phase IV: Data Analysis and Report Writing**
 
 * **Lesson 4: Data Analysis Skills**
-**Date:** August 17, 2024
-**Topics:** Data organization and analysis techniques; introduction to using Python for social research.
+<br>**Date:** August 17, 2024
+<br>**Topics:** Data organization and analysis techniques; introduction to using Python for social research.
 
 * **Report Writing Period: August 18 – September 17, 2024**
-**Activities:** Group-based data analysis, interpretation of findings, and report writing. Selected reports will be considered for publication.
+<br>**Activities:** Group-based data analysis, interpretation of findings, and report writing. Selected reports will be considered for publication.
 
 **Phase V: Results Sharing and Feedback**
 
 **Date:** Late October 2024
-**Format:** presentation session
-**Activities:**
+<br>**Format:** presentation session
+<br>**Activities:**
 
 * Participants present their findings.
 
