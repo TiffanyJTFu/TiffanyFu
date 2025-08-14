@@ -16,6 +16,14 @@ These pressures should not be borne by individual families alone—they are soci
 
 To address this need, Leading Tomorrow, a non-profit organization, has launched a social research project titled “Cross-cultural Education Methods and Adolescents’ Physical and Mental Health.” The project aims to deepen understanding of how parenting and education styles within immigrant families affect adolescents’ mental health and social adaptability. By conducting this research, the project seeks to identify key factors influencing youth development, providing a scientific basis for more effective support strategies and interventions that can help immigrant adolescents thrive.
 
+<span style="font-size:2.5em;"><b>Project Objectives</b></span> 
+
+* Raise social awareness: Promote care and responsibility for the physical and mental health of adolescents from immigrant families.
+
+* Develop research skills: Provide participants with foundational knowledge and skills in social science research.
+
+* Generate scientific insight: Understand the impact of parenting and educational methods on youth development.
+
 ![SocialScience12](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject12.jpg)
 
 ![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject1.jpg)
