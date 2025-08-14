@@ -1,8 +1,8 @@
 ---
 title: "Innovation Project"
 collection: teaching
-type: " Innovation Project"
-permalink: /teaching/2014-spring-teaching-1
+type: ""
+permalink: /teaching/Innovation-Project
 venue: ""
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Social Science Research Project"
 collection: teaching
-type: "Social Science Research Project"
-permalink: /teaching/2015-spring-teaching-1
+type: ""
+permalink: /teaching/Social-Science-Research-Project
 ---
 
 ## Project Topic: Cross-cultural Education Methods and Adolescents' Physical and Mental Health
@@ -92,8 +92,5 @@ To address this need, Leading Tomorrow, a non-profit organization, has launched 
 ![SocialScience11](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject11.JPG)
 
 
-Brown University 2024
-=====
-  * Leading and Social Change Research Project
-  * Certificate of Completion
+
 
