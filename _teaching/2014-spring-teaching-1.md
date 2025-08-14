@@ -1,10 +1,9 @@
 ---
-title: "Projects Overview"
+title: " Innovation Project"
 collection: teaching
-type: "Projects Overview"
+type: " Innovation Project"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-location: "City, Country"
+venue: ""
 ---
 
 Shad York 2025
