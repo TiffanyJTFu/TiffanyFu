@@ -7,7 +7,7 @@ permalink: /teaching/2015-spring-teaching-1
 
 ## Project Topic: Cross-cultural Education Methods and Adolescents' Physical and Mental Health
 **Project Background**
-<br>In the context of globalization, increasing attention has been paid to the relationship between the educational practices of immigrant families and the physical and mental health of adolescents. Young people from immigrant backgrounds face unique challenges such as cultural conflict, identity issues, and the pressure to adapt to a new environment. These stressors can have significant impacts on their well-being, with reported cases of depression and even suicide. At the same time, immigrant parents also face difficulties in navigating parenting and supporting their children in a new cultural and social context.
+<br><br>In the context of globalization, increasing attention has been paid to the relationship between the educational practices of immigrant families and the physical and mental health of adolescents. Young people from immigrant backgrounds face unique challenges such as cultural conflict, identity issues, and the pressure to adapt to a new environment. These stressors can have significant impacts on their well-being, with reported cases of depression and even suicide. At the same time, immigrant parents also face difficulties in navigating parenting and supporting their children in a new cultural and social context.
 
 These pressures should not be borne by individual families alone—they are societal challenges that require collective awareness and support.
 
@@ -21,7 +21,7 @@ To address this need, Leading Tomorrow, a non-profit organization, has launched 
 * **Generate scientific insight:** Understand the impact of parenting and educational methods on youth development.
 
 **Project Timeline and Details**
-<br>**Phase I: Recruitment and Team Formation**
+<br><br>**Phase I: Recruitment and Team Formation**
 **Timeframe:** April 20 – May 10, 2024
 <br>**Eligibility:** Students entering Grades 8–12 in September 2024; strong academic performance; interest in social issues; strong sense of teamwork.
 
@@ -68,7 +68,7 @@ To address this need, Leading Tomorrow, a non-profit organization, has launched 
 * Open discussions between students and experts to encourage reflection and growth.
 
 **Project Supervisor**
-<br>The project will be led by **Dr. Tao Wang**, Assistant Professor at the School of Information, University of Toronto. Dr. Wang specializes in online communication, knowledge management, and behavioral analysis. His research integrates social psychology with quantitative methods such as natural language processing and machine learning. Passionate about youth development, Dr. Wang has been an active volunteer in several youth organizations and will provide mentorship and academic guidance throughout the project.
+<br><br>The project will be led by **Dr. Tao Wang**, Assistant Professor at the School of Information, University of Toronto. Dr. Wang specializes in online communication, knowledge management, and behavioral analysis. His research integrates social psychology with quantitative methods such as natural language processing and machine learning. Passionate about youth development, Dr. Wang has been an active volunteer in several youth organizations and will provide mentorship and academic guidance throughout the project.
 
 
 ![SocialScience12](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject12.jpg)
