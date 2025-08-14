@@ -29,17 +29,17 @@ To address this need, Leading Tomorrow, a non-profit organization, has launched 
 **Phase I: Recruitment and Team Formation**
 
 **Timeframe:** April 20 – May 10, 2024
-Eligibility: Students entering Grades 8–12 in September 2024; strong academic performance; interest in social issues; strong sense of teamwork.
+**Eligibility:** Students entering Grades 8–12 in September 2024; strong academic performance; interest in social issues; strong sense of teamwork.
 
 **Phase II: Research Training (Three 1.5-hour sessions)**
 
 * **Lesson 1: Introduction to Social Science Research**
-Date: May 18, 2024
-Topics: Importance, principles, and methods of social science research (qualitative and quantitative); research ethics; how to design a questionnaire; understanding data reliability and validity.
+**Date:** May 18, 2024
+**Topics:** Importance, principles, and methods of social science research (qualitative and quantitative); research ethics; how to design a questionnaire; understanding data reliability and validity.
 
 * **Lesson 2: Topic Exploration and Survey Design**
-Date: May 25, 2024
-Topics: Cross-cultural parenting methods; impacts of parenting on adolescent well-being; group discussions and case studies; group work on first draft of survey questionnaire.
+**Date:** May 25, 2024
+**Topics:** Cross-cultural parenting methods; impacts of parenting on adolescent well-being; group discussions and case studies; group work on first draft of survey questionnaire.
 
 * **Lesson 3: Research Design and Field Techniques**
 Date: June 1, 2024
