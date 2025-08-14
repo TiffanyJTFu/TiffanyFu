@@ -1,6 +1,7 @@
 ---
 title: "Social Science Research Project"
 collection: teaching
+type: "Social Science Research Project"
 permalink: /teaching/2015-spring-teaching-1
 ---
 
