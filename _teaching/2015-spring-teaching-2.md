@@ -6,7 +6,7 @@ permalink: /teaching/2015-spring-teaching-1
 location: "Toronto Canada"
 ---
 
-**Project Topic: Cross-cultural Education Methods and Adolescents' Physical and Mental Health**
+Project Topic: Cross-cultural Education Methods and Adolescents' Physical and Mental Health
 =====
 **Project Background:**
 In the context of globalization, the relationship between immigrant families' education methods and adolescents' physical and mental health has received increasing attention. Adolescents from immigrant families face unique challenges, including cultural conflicts, identity problems, and pressure to adapt to a new environment. These factors may affect their physical and mental health, and depression and even suicide incidents are reported from time to time; and immigrant parents also face challenges and pressures in how to cultivate and support their children in a new environment. These severe pressures should not be borne independently by each family, but should be cared for and faced by the society together.
