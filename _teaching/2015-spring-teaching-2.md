@@ -23,9 +23,9 @@ Leading Tomorrow, a non-profit organization, has specially initiated and organiz
 
 ![SocialScience05](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject5.JPG)
 
-![SocialScience07](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject7.jpg)
-
 ![SocialScience08](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject8.jpg)
+
+![SocialScience07](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject7.jpg)
 
 ![SocialScience09](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject9.JPG)
 
