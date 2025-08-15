@@ -6,7 +6,7 @@ permalink: /teaching/Innovation-Project
 ---
 <br>
 ![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shadproject1.png)
-<br>
+<br><br>
 
 **Innovation Project:** ICELERT
 <br><br>**Problem**
@@ -24,7 +24,7 @@ permalink: /teaching/Innovation-Project
    * Salt/Sand/Brine treatments - Salt on roads is detrimental to transportation methods’ stability as it causes corrosion which impacts both vehicle and infrastructure integrity
    * Use of Road Weather Information Systems (RWIS) to monitor pavement temperatures, humidity and precipitation - has limited coverage and placement; maintenance and reliability issues; Lack of real-time responsiveness; Requires integration with other systems; high cost solution
    * Anti-icing methods done pre-snowfall to reduce accumulation and make plowing more efficient - timing is critical; weather condition uncertainty
-**STATS**
+<br>**STATS**
 * In November 2021, when the Fraser valley and Sumas Prairie in British Columbia’s Lower mainland were overwhelmed by massive flooding. Metro Vancouver was cut off from the rest of Canada by road. Nothing could leave the port of Vancouver, massively impacting the supply chain, prairie farmers, manufactures, and many other businesses.
 * About 18% of fatal collisions occurred during poor weather conditions in Canada in 2021
 * About 30% of accidents occurred on wet, icy, or snowy roads, with about one-third of all accidents in Canada
@@ -38,7 +38,7 @@ permalink: /teaching/Innovation-Project
 * Collisions are more prominent during winter in Canada due to hazardous road conditions, reduced visibility, and increased travel during the holiday season. Icy roads, especially black ice, and snowy conditions reduce tire traction, making it harder to stop or steer safely. Reduced daylight hours and inclement weather, like heavy snowfall, also impair visibility, making it challenging for drivers to react to hazards.
 * In 2017, nearly 30 percent of collisions reported to the National Collision Database happened on wet, snowy or icy roads. One third happened in January, February, November and December
 * Victoria, British Columbia, is generally considered the Canadian city with the least amount of snowfall and 232 reported incidents while Edmonton is generally one of the most snowfall 24,003 motor vehicle collisions in Edmonton
-**STEPS**
+<br>**STEPS**
 * Identify Weather-Related Hazards
   * Analyze collision data to determine which weather conditions (e.g. snow, freezing rain, fog, heavy rain) cause most accidents.
   * Map high-risk areas (intersections, highways, rural roads) with frequent weather-related incidents.
