@@ -1,5 +1,5 @@
 ---
-title: "Innovation Project"
+title: "Innovation Project - Shad York 2025"
 collection: teaching
 type: ""
 permalink: /teaching/Innovation-Project
