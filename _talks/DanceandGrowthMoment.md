@@ -7,7 +7,7 @@ venue:
 location: "Toronto, Canada"
 ---
 ## A Journey from Little Leaps to Leading Roles
-![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetech1.jpg)
+![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetech2.jpg)
 
 ![Dance](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetech6.jpg)
 
