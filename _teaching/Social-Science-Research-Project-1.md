@@ -1,5 +1,5 @@
 ---
-title: "Social Science Research Project - Brown University Pre-College Program"
+title: "Social Science Research Project - Brown University Pre-College Program 2024"
 collection: teaching
 type: ""
 permalink: /teaching/Social-Science-Research-Project-1
