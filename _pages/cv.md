@@ -28,6 +28,11 @@ ACHIEVEMENTS AND ACTIVITIES
   * Collaborated as a team member to organize and execute the Open Day Celebration and Evening Variety Show
   * Served as one of the Masters of Ceremonies (MCs), engaging the audience, introducing performers and speakers, and maintaining the flow of both events
   * Contributed to event planning, logistics, and stage coordination to ensure a successful and memorable experience for guests and participants
+  * Innovation Project: ICELERT
+  * Collaborated with a team to develop ICELERT, an innovative prototype designed to detect and alert drivers of icy road conditions to prevent accidents
+  * Contributed to all phases of the project, including research, brainstorming, design, and prototyping
+  * Applied principles of STEAM and entrepreneurship to address a real-world problem through innovation
+  * Presented the prototype to peers, mentors, and judges as part of the final showcase
   * Certificate of Completion
 * **United Speakers Global 09/2024 - 2025**
    * Selected for the role from a competitive pool based on strong public speaking and leadership skills
