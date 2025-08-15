@@ -61,19 +61,19 @@ VOLUNTEER EXPERIENCE
 ======
  * **Community Outreach Volunteer – MPP Team 08/2025**
    * Volunteered with Markham MPP Billy Pang’s team to distribute community information leaflets and support local outreach efforts
-
- * **Unionville High School Information Night 2024**
-   * Represented the school as a student volunteer during the Grade 8 Information Night for incoming 
-  families
-   * Introduced parents and prospective students to the school’s academic programs, extracurricular 
-  activities, and the Arts Unionville (AU) program, with a special focus on the Dance prog * **Volunteer English Tutor 05/2025 - 06/2025**
+* **Volunteer English Tutor 05/2025 - 06/2025**
    * Tutored lower-grade immigrant students in English, focusing on basic language skills, vocabulary building, and especially classroom communication
    * Adapted tutoring strategies to suit varying English proficiency levels and cultural backgrounds
    * Demonstrated patience, empathy, and communication skills while fostering a supportive learning atmosphereram
+* **Unionville High School Information Night 2024**
+   * Represented the school as a student volunteer during the Grade 8 Information Night for incoming 
+  families
+   * Introduced parents and prospective students to the school’s academic programs, extracurricular 
+  activities, and the Arts Unionville (AU) program, with a special focus on the Dance program
    * Answered questions, shared personal experiences, and helped promote a positive image of the school 
   community
    * Contributed to fostering a welcoming environment and encouraging student engagement in school 
-  life
+  life 
  * **2024 Markham-Milliken Children's Festival - Vendor Load-in Assistant 09/2024**
    * Aided coordination amongst a team of volunteers, ensuring optimal vendor support and problem
   resolution
