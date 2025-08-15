@@ -13,12 +13,3 @@ This project was completed as part of the Brown University Pre-College Program â
 The project aimed to explore how the lack of cultural awareness impacts community cohesion and youth engagement. Using qualitative research methods such as surveys, interviews, and local case studies, the research identified key gaps in education and community interaction. The findings were presented in a capstone presentation to faculty and peers, along with recommendations for promoting inclusive practices and cross-cultural dialogue in local settings.
 
 
-
-
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-
