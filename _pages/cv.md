@@ -65,6 +65,11 @@ VOLUNTEER EXPERIENCE
    * Tutored lower-grade immigrant students in English, focusing on basic language skills, vocabulary building, and especially classroom communication
    * Adapted tutoring strategies to suit varying English proficiency levels and cultural backgrounds
    * Demonstrated patience, empathy, and communication skills while fostering a supportive learning atmosphereram
+* **United Speakers Global 09/2024 - 2025**
+   * Selected for the role from a competitive pool based on strong public speaking and leadership skills
+   * Coordinated outreach efforts to expand the organization’s presence in schools and communities
+   * Led recruitment initiatives to increase membership and volunteer participation
+   * Contributed to strategy meetings to improve outreach materials, event promotion, and chapter engagement
 * **Unionville High School Information Night 2024**
    * Represented the school as a student volunteer during the Grade 8 Information Night for incoming 
   families
