@@ -19,7 +19,7 @@ ACHIEVEMENTS AND ACTIVITIES
 ======
 * **Ignite Fair organizaiont - Sponsorship Coordinator** 2024 - Present
   * Ignite Fair is a student-led non-profit organization that empowers youth by promoting STEM education, leadership, and innovation through events and community outreach
-  * Served as Sponsorship Coordinator for the "Ignite the Stage" event at September, a youth-led showcase aimed at inspiring creativity, public speaking, and student engagement
+  * Served as Sponsorship Coordinator for the "Ignite the Stage" event at September 2025, a youth-led showcase aimed at inspiring creativity, public speaking, and student engagement
   * Actively participated in planning and execution of the event, contributing to sponsor outreach, event logistics, and day-of coordination
   * Researched and contacted potential sponsors, developed sponsorship packages, and helped secure funding and in-kind support
   * Collaborated with cross-functional team members to ensure smooth event execution and community impact
@@ -43,6 +43,10 @@ ACHIEVEMENTS AND ACTIVITIES
   * Certificate of Completion
   * Learning Dedication Award
 * **Participate on Summer fairs and open-air movies night as sales angels to donate to charity (08/2024)**
+  * Participated as a Sales Angel at various community events to support local charitable initiatives
+  * Assisted in selling snacks, drinks, and event merchandise during summer fairs and outdoor movie nights
+  * Engaged with attendees to promote fundraising goals and raise awareness about the supported charities
+  * Helped raise funds through customer service, teamwork, and active participation in event operations
 * **Brown University, Pre-College course in Leadership and Social Change (06/2024 - 07/2024)**
   * Certificate of Completion
 * **StarCatchers Dance Competition '24**
