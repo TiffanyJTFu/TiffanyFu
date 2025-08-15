@@ -17,15 +17,23 @@ EDUCATION
 
 ACHIEVEMENTS AND ACTIVITIES
 ======
-* **Ignite Fair organizaiont - Sponsorship Coordinator** 
+* **Ignite Fair organizaiont - Sponsorship Coordinator** 2024 - Present
   * Ignite Fair is a student-led non-profit organization that empowers youth by promoting STEM education, leadership, and innovation through events and community outreach
   * Served as Sponsorship Coordinator for the "Ignite the Stage" event at September, a youth-led showcase aimed at inspiring creativity, public speaking, and student engagement
   * Actively participated in planning and execution of the event, contributing to sponsor outreach, event logistics, and day-of coordination
   * Researched and contacted potential sponsors, developed sponsorship packages, and helped secure funding and in-kind support
   * Collaborated with cross-functional team members to ensure smooth event execution and community impact
 * **Shad York 2025**
+  * Participated in the Shad Canada enrichment program focused on STEAM, entrepreneurship, and leadership
+  * Collaborated as a team member to organize and execute the Open Day Celebration and Evening Variety Show
+  * Served as one of the Masters of Ceremonies (MCs), engaging the audience, introducing performers and speakers, and maintaining the flow of both events
+  * Contributed to event planning, logistics, and stage coordination to ensure a successful and memorable experience for guests and participants
   * Certificate of Completion
-  * Participated as a team member in organizing the Open Day Celebration and the Evening Variety Show, and served as one of the Masters of Ceremonies (MCs) for the events
+* **United Speakers Global 09/2024 - 2025**
+   * Selected for the role from a competitive pool based on strong public speaking and leadership skills
+   * Coordinated outreach efforts to expand the organization’s presence in schools and communities
+   * Led recruitment initiatives to increase membership and volunteer participation
+   * Contributed to strategy meetings to improve outreach materials, event promotion, and chapter engagement
 * **StarCatchers Dance Competition '25**
   * Solo- 1st place Platinum Award    
 * **Believe Dance Competition '25**
@@ -69,11 +77,6 @@ VOLUNTEER EXPERIENCE
    * Tutored lower-grade immigrant students in English, focusing on basic language skills, vocabulary building, and especially classroom communication
    * Adapted tutoring strategies to suit varying English proficiency levels and cultural backgrounds
    * Demonstrated patience, empathy, and communication skills while fostering a supportive learning atmosphereram
-* **United Speakers Global 09/2024 - 2025**
-   * Selected for the role from a competitive pool based on strong public speaking and leadership skills
-   * Coordinated outreach efforts to expand the organization’s presence in schools and communities
-   * Led recruitment initiatives to increase membership and volunteer participation
-   * Contributed to strategy meetings to improve outreach materials, event promotion, and chapter engagement
 * **Unionville High School Open House 11/2024**
    * Represented the school as a student volunteer during the School Open House for Grade 8 incoming 
   families
