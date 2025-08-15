@@ -35,7 +35,7 @@ ACHIEVEMENTS AND ACTIVITIES
   * Presented the prototype to peers, mentors, and judges as part of the final showcase
   * Certificate of Completion
 * **United Speakers Global - Outreach Executive 09/2024 - 2025**
-   * is a student-led non-profit organization dedicated to empowering youth through public speaking, communication, and leadership development. The organization provides workshops, events, and mentorship opportunities to help students build confidence and become effective communicators in their communities
+  * United Speakers Global is a student-led non-profit organization dedicated to empowering youth through public speaking, communication, and leadership development. The organization provides workshops, events, and mentorship opportunities to help students build confidence and become effective communicators in their communities
    * Selected for the role from a competitive pool based on strong public speaking and leadership skills
    * Coordinated outreach efforts to expand the organization’s presence in schools and communities
    * Led recruitment initiatives to increase membership and volunteer participation
