@@ -70,15 +70,15 @@ VOLUNTEER EXPERIENCE
    * Coordinated outreach efforts to expand the organization’s presence in schools and communities
    * Led recruitment initiatives to increase membership and volunteer participation
    * Contributed to strategy meetings to improve outreach materials, event promotion, and chapter engagement
-* **Unionville High School Information Night 2024**
-   * Represented the school as a student volunteer during the Grade 8 Information Night for incoming 
+* **Unionville High School Open House 11/2024**
+   * Represented the school as a student volunteer during the School Open House for Grade 8 incoming 
   families
    * Introduced parents and prospective students to the school’s academic programs, extracurricular 
   activities, and the Arts Unionville (AU) program, with a special focus on the Dance program
    * Answered questions, shared personal experiences, and helped promote a positive image of the school 
   community
    * Contributed to fostering a welcoming environment and encouraging student engagement in school 
-  life 
+  life
  * **2024 Markham-Milliken Children's Festival - Vendor Load-in Assistant 09/2024**
    * Aided coordination amongst a team of volunteers, ensuring optimal vendor support and problem
   resolution
@@ -94,7 +94,13 @@ VOLUNTEER EXPERIENCE
   * Participate in the Bazaar and Art Auction, with proceeds donated to the SickKids Foundation
   * Prepare handmade items for the Bazaar
   * Be a sales ambassador, helping to sell all handmade items, with all earnings going to the SickKids 
-  Foundation 
+  Foundation
+* **Coledale Public School Spring Fling 06/2024**
+  * Assisted at a school community event by preparing and selling food at a booth
+  * Provided friendly and efficient customer service to students, parents, and staff
+  * Supported event operations by helping manage crowd flow and maintaining a clean, welcoming 
+    booth environment
+  * Contributed to a successful fundraising effort through teamwork and communication
 * **2023 Markham-Milliken Children's Festival - Event Assistant 09/2023**
   * Led coordination amongst a team of volunteers, ensuring optimal guest support and - problem 
   resolution
