@@ -62,21 +62,21 @@ location: "Toronto, Canada"
 
 
 **Rising Sun**
-<a href="https://youtu.be/isbpR2lO6R4" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
+<a href="https://youtu.be/hlKLWcKPEaQ" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancerisingsun.JPG)
 
 
 
 **Dunhuang**
-<a href="https://youtu.be/isbpR2lO6R4" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
+<a href="https://youtu.be/G4A7tslE6JM" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancedunhuang.JPG)
 
 
 
 **Chopsticks**
-<a href="https://youtu.be/isbpR2lO6R4" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
+<a href="https://youtu.be/eq4gmod2Sis" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancechopsticks.jpg)
 
