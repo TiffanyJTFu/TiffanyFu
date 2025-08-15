@@ -1,5 +1,5 @@
 ---
-title: "Social Science Research Project"
+title: "Social Science Research Project 2024"
 collection: teaching
 type: ""
 permalink: /teaching/Social-Science-Research-Project
