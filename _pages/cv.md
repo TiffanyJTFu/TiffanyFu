@@ -53,6 +53,10 @@ ACHIEVEMENTS AND ACTIVITIES
   * Engaged with attendees to promote fundraising goals and raise awareness about the supported charities
   * Helped raise funds through customer service, teamwork, and active participation in event operations
 * **Brown University, Pre-College course in Leadership and Social Change (06/2024 - 07/2024)**
+  * Completed an independent research project under the guidance of a Brown University assistant professor
+  * Investigated the social impact of limited cultural awareness among youth in Markham, one of Canada’s most diverse cities
+  * Analyzed root causes and proposed community-based solutions to enhance cross-cultural understanding and engagement
+  * Presented findings to faculty and peers as part of the course’s final capstone presentation
   * Certificate of Completion
 * **StarCatchers Dance Competition '24**
   * Solo- 2nd place Overall Award
