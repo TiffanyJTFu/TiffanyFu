@@ -45,6 +45,10 @@ ACHIEVEMENTS AND ACTIVITIES
 * **Believe Dance Competition '25**
   * Solo- 1st place Platinum Award
 * **Toronto MUN (Module UN) competition 03/2025**
+  * Represented a designated country in a simulated UN committee, debating real-world global issues
+  * Researched international policies and collaborated with other delegates to draft resolutions
+  * Practiced formal debate, public speaking, negotiation, and diplomacy in a competitive academic setting
+  * Strengthened skills in critical thinking, teamwork, and global awareness
 * **Collaborated on the LT Social Science Research Project, led by Professor Tao Wang from the University of Toronto (05/2024 - 11/2024)** 
   * Certificate of Completion
   * Learning Dedication Award
