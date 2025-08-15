@@ -4,9 +4,9 @@ collection: teaching
 type: ""
 permalink: /teaching/Innovation-Project
 ---
-<br><br>
+<br>
 ![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shadproject1.png)
-<br><br>
+<br>
 
 **Innovation Project:** ICELERT
 <br><br>**Problem**
