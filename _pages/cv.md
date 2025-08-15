@@ -17,7 +17,7 @@ EDUCATION
 
 ACHIEVEMENTS AND ACTIVITIES
 ======
-* **Ignite Fair organizaiont - Sponsorship Coordinator** 2024 - Present
+* **Ignite Fair organizaiont - Sponsorship Coordinator 2024 - Present**
   * Ignite Fair is a student-led non-profit organization that empowers youth by promoting STEM education, leadership, and innovation through events and community outreach
   * Served as Sponsorship Coordinator for the "Ignite the Stage" event at September 2025, a youth-led showcase aimed at inspiring creativity, public speaking, and student engagement
   * Actively participated in planning and execution of the event, contributing to sponsor outreach, event logistics, and day-of coordination
@@ -34,7 +34,8 @@ ACHIEVEMENTS AND ACTIVITIES
   * Applied principles of STEAM and entrepreneurship to address a real-world problem through innovation
   * Presented the prototype to peers, mentors, and judges as part of the final showcase
   * Certificate of Completion
-* **United Speakers Global 09/2024 - 2025**
+* **United Speakers Global - Outreach Executive 09/2024 - 2025**
+   * is a student-led non-profit organization dedicated to empowering youth through public speaking, communication, and leadership development. The organization provides workshops, events, and mentorship opportunities to help students build confidence and become effective communicators in their communities
    * Selected for the role from a competitive pool based on strong public speaking and leadership skills
    * Coordinated outreach efforts to expand the organization’s presence in schools and communities
    * Led recruitment initiatives to increase membership and volunteer participation
