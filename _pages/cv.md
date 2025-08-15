@@ -17,8 +17,12 @@ EDUCATION
 
 ACHIEVEMENTS AND ACTIVITIES
 ======
-* **Ignite the Stage 09/2025** 
-  * Served as Sponsorship Coordinator at Ignite Fair organization, actively participating in the planning and execution of the 'Ignite the Stage' event
+* **Ignite Fair organizaiont - Sponsorship Coordinator** 
+  * Ignite Fair is a student-led non-profit organization that empowers youth by promoting STEM education, leadership, and innovation through events and community outreach
+  * Served as Sponsorship Coordinator for the "Ignite the Stage" event at September, a youth-led showcase aimed at inspiring creativity, public speaking, and student engagement
+  * Actively participated in planning and execution of the event, contributing to sponsor outreach, event logistics, and day-of coordination
+  * Researched and contacted potential sponsors, developed sponsorship packages, and helped secure funding and in-kind support
+  * Collaborated with cross-functional team members to ensure smooth event execution and community impact
 * **Shad York 2025**
   * Certificate of Completion
   * Participated as a team member in organizing the Open Day Celebration and the Evening Variety Show, and served as one of the Masters of Ceremonies (MCs) for the events
