@@ -3,6 +3,7 @@ title: "Innovation Project - Shad York 2025"
 collection: teaching
 type: ""
 permalink: /teaching/InnovationProject
+paperurl: 'http://academicpages.github.io/files/ICELERT - Business Plan.pdf'
 ---
 
 ![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shadproject1.png)
