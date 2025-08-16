@@ -39,7 +39,7 @@ location: "Toronto, Canada"
 
 
 
-## Studio Performance Highlights
+## Studio Dance Performance Highlights
 **Don Quixote**
 <a href="https://youtu.be/TQqILM71ags" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
 
@@ -82,7 +82,7 @@ location: "Toronto, Canada"
 
 
 
-## Arts Unionville - Performance Highlights
+## Arts Unionville - Dance Performance Highlights
 **Don Quixote**
 <a href="https://youtu.be/isbpR2lO6R4" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
 
