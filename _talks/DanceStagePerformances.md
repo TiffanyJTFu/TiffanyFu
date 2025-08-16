@@ -9,7 +9,6 @@ location: "Toronto, Canada"
 ## StarCatchers Dance Competition
 **Pointing to the Moon – Solo | 2nd Place Overall, Top Soloist Performer | StarCatchers Dance Competition 2024**
 <a href="https://youtu.be/Js13cJFnUC0" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
-
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancepointingtothemoons.PNG)
 
 
