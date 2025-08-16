@@ -1,5 +1,5 @@
 ---
-title: "Stage Performance"
+title: "Dance Stage Performance"
 collection: talks
 type: "Stage Performance"
 permalink: /talks/DanceCompetitions1
