@@ -16,8 +16,7 @@ location: "Toronto, Canada"
 
 **Timeless Love – Solo | 1st Place Platinum Award | StarCatchers Dance Competition 2025**
 <a href="https://youtu.be/isbpR2lO6R4" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
-
-![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetimelessloveb1.JPG)
+<br>![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetimelessloveb1.JPG)
 
 
 
@@ -25,67 +24,58 @@ location: "Toronto, Canada"
 ## Believe Dance Competition
 **Pointing to the Moon – Solo | Diamond Rank, 2nd Place Overall, Judge's Choice Award | Believe Dance Competition 2024**  
 <a href="https://youtu.be/isbpR2lO6R4" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
-
-![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancepointingtothemoonb3.PNG)
+<br>![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancepointingtothemoonb3.PNG)
 
 
 
 
 **Timeless Love – Solo | 1st Place Platinum Award | Believe Dance Competition 2025**
 <a href="https://youtu.be/z81euMPFEm4 " target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
-
-![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetimelesslovewb.PNG)
+<br>![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetimelesslovewb.PNG)
 
 
 
 ## Studio Dance Performance Highlights
 **Don Quixote**
 <a href="https://youtu.be/TQqILM71ags" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
-
-![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/danceballet2.JPEG)
+<br>![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/danceballet2.JPEG)
 
 
 
 **Peacock**
 <a href="https://youtu.be/_IjY1q_Lz6U" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
-
-![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancepeacock1.JPG)
+<br>![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancepeacock1.JPG)
 
 
 
 **Zhe-Xian**
 <a href="https://youtu.be/xomFrrJE3mM" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
-
-![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancezhexian.JPG)
+<br>![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancezhexian.JPG)
 
 
 
 **Rising Sun**
 <a href="https://youtu.be/hlKLWcKPEaQ" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
-
-![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancerisingsun.JPG)
+<br>![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancerisingsun.JPG)
 
 
 
 **Dunhuang**
 <a href="https://youtu.be/G4A7tslE6JM" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
-
-![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancedunhuang.JPG)
+<br>![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancedunhuang.JPG)
 
 
 
 **Chopsticks**
 <a href="https://youtu.be/eq4gmod2Sis" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
-
-![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancechopsticks.jpg)
+<br>![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancechopsticks.jpg)
 
 
 
 ## Arts Unionville - Dance Performance Highlights
 **Don Quixote**
 <a href="https://youtu.be/isbpR2lO6R4" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
-
-![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/danceballet2.JPEG)
+<br>![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/danceballet2.JPEG)
 
 
 
