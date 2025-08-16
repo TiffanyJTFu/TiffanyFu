@@ -2,7 +2,7 @@
 title: "Social Science Research Project 2024"
 collection: teaching
 type: ""
-permalink: /teaching/Social-Science-Research-Project
+permalink: /teaching/SocialScienceResearchProject
 ---
 
 **Project Topic:** Cross-cultural Education Methods and Adolescents' Physical and Mental Health

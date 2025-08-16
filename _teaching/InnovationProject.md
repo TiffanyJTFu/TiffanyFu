@@ -2,7 +2,7 @@
 title: "Innovation Project - Shad York 2025"
 collection: teaching
 type: ""
-permalink: /teaching/Innovation-Project
+permalink: /teaching/InnovationProject
 ---
 
 ![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shadproject1.png)

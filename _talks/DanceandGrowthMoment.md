@@ -2,7 +2,7 @@
 title: "Dancing Through the Years"
 collection: talks
 type: "danceandgrowthmoment"
-permalink: /talks/danceandgrowthmoment
+permalink: /talks/DanceAndGrowthMoment
 venue:
 location: "Toronto, Canada"
 ---

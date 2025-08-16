@@ -1,8 +1,8 @@
 ---
-title: "Dance Stage Performance"
+title: "Dance Stage Performances"
 collection: talks
-type: "Stage Performance"
-permalink: /talks/DanceCompetitions1
+type: "Dance Stage Performances"
+permalink: /talks/DanceStagePerformances
 venue: 
 location: "Toronto, Canada"
 ---
