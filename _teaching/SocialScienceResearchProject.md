@@ -3,6 +3,7 @@ title: "Social Science Research Project 2024"
 collection: teaching
 type: ""
 permalink: /teaching/SocialScienceResearchProject
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 ---
 
 **Project Topic:** Cross-cultural Education Methods and Adolescents' Physical and Mental Health
