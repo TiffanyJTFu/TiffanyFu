@@ -3,7 +3,7 @@ title: "Social Science Research Project 2024"
 collection: teaching
 type: ""
 permalink: /teaching/SocialScienceResearchProject
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://academicpages.github.io/files/ICELERT - Business Plan.pdf'
 ---
 
 **Project Topic:** Cross-cultural Education Methods and Adolescents' Physical and Mental Health
