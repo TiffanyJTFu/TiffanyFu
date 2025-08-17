@@ -5,6 +5,7 @@ collection: portfolio
 ---
 
 **Shad York 2025**
+===
   * Participated research project
   * a team member in organizing the Open Day Celebration and the Evening Variety Show
   * one of the Masters of Ceremonies (MCs) for the events
