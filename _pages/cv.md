@@ -36,10 +36,25 @@ ACHIEVEMENTS AND ACTIVITIES
   * Certificate of Completion
 * **United Speakers Global - Outreach Executive 09/2024 - 2025**
   * United Speakers Global is a student-led non-profit organization dedicated to empowering youth through public speaking, communication, and leadership development. The organization provides workshops, events, and mentorship opportunities to help students build confidence and become effective communicators in their communities
-   * Selected for the role from a competitive pool based on strong public speaking and leadership skills
-   * Coordinated outreach efforts to expand the organization’s presence in schools and communities
-   * Led recruitment initiatives to increase membership and volunteer participation
-   * Contributed to strategy meetings to improve outreach materials, event promotion, and chapter engagement
+  * Selected for the role from a competitive pool based on strong public speaking and leadership skills
+  * Coordinated outreach efforts to expand the organization’s presence in schools and communities
+  * Led recruitment initiatives to increase membership and volunteer participation
+  * Contributed to strategy meetings to improve outreach materials, event promotion, and chapter engagement
+* **School Model United Nations (Model UN) Club 2024 -Precent**
+  * Participate to Toronto MUN (Module UN) competition 03/2025
+  * Participated in mock UN simulations to develop diplomacy, public speaking, and negotiation skills.
+  * Represented various countries in debates on global issues, following formal UN procedures.
+  * Researched international policies and collaborated with peers to draft resolutions and deliver speeches
+  * Engaged in regular club meetings, workshops, and internal conferences to strengthen leadership and global awareness
+* **School Mock Trial Club 2024 -Precent**
+  * Participated in simulated courtroom trials to develop skills in public speaking, critical thinking, and legal reasoning.
+  * Collaborated with team members to prepare case materials, construct arguments, and role-play as attorneys and witnesses.
+  * Engaged in legal discussions and competitive practice sessions to improve courtroom etiquette and debate strategies.
+  * Gained foundational knowledge of courtroom procedures, legal terminology, and case anal
+* **Bakery Club 2024 -Precent**
+  * Participated in weekly baking sessions and school events to promote community involvement through baking
+  * Helped prepare and sell baked goods at school fundraisers to support charities
+  * Collaborated with club members to organize bake sales, and handle customer service
 * **StarCatchers Dance Competition '25**
   * Solo- 1st place Platinum Award    
 * **Believe Dance Competition '25**
