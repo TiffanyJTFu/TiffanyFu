@@ -11,10 +11,6 @@ Tiffany is a dynamic ad creative individual passionate about cultural expression
 
 <a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject" target='_blank'>Social Science Research Project 2024</a>
 
-## Social Science Research Project - Brown University Pre-College Program 2024
-**Project Topic: The Lack of Cultural Awareness in Markham: Challenges and Opportunities for Youth Engagement**
-<a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject-1" target='_blank'>Link Text</a>
+<a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject-1" target='_blank'>Social Science Research Project - Brown University Pre-College Program 2024</a>
 
-## Innovation Project - Shad York 2025
-**Innovation Project: ICELERT**
-<a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/InnovationProject" target='_blank'>Link Text</a>
+<a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/InnovationProject" target='_blank'>Innovation Project - Shad York 2025</a>
