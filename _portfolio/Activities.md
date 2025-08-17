@@ -1,5 +1,5 @@
 ---
-title: "Achievements"
+title: "Activities"
 excerpt: ""
 collection: portfolio
 ---
