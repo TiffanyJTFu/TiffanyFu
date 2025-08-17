@@ -18,11 +18,8 @@ main:
     url: /teaching/    
     
   - title: "Achievements & Activities"
-    url: /portfolio/
-        
-  - title: "Activities"
-    url: /year-archive/
-    
+    url: /portfolio/        
+   
   - title: "About Me"
     url: /cv/
     
