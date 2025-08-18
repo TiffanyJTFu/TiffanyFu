@@ -1,6 +1,6 @@
 ---
 title: "Activities"
-excerpt: ""
+excerpt: "Actively engaged in a wide range of extracurriculars, including cultural dance performance, school clubs (Model UN, Mock Trial), community volunteering, innovation competitions, and charity events. Demonstrated leadership, collaboration, and a commitment to social impact.<br/><img src='https://tiffanyjtfu.github.io/TiffanyFu/images/shad3.jpeg'>"
 collection: portfolio
 ---
 
