@@ -3,7 +3,7 @@ title: "Arts Unionville Dance Program"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'Enrolled in the elite Arts Unionville Dance Program at Unionville High School, receiving advanced training in contemporary, jazz, hip hop, and stage performance. Developed strong technical skills, artistic expression, and stage presence through regular school and community performances.<br/><img src='https://tiffanyjtfu.github.io/TiffanyFu/images/shad3.jpeg'>'
+excerpt: 'Enrolled in the elite Arts Unionville Dance Program at Unionville High School, receiving advanced training in contemporary, jazz, hip hop, and stage performance. Developed strong technical skills, artistic expression, and stage presence through regular school and community performances<br/><img src="https://tiffanyjtfu.github.io/TiffanyFu/images/shad3.jpeg">'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
