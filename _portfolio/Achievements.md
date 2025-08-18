@@ -1,6 +1,6 @@
 ---
 title: "Achievements"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/dancepointingtothemoons1.PNG'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='https://tiffanyjtfu.github.io/TiffanyFu/images/shad3.jpeg'>"
 collection: portfolio
 ---
 * **Ignite Fair organizaiont - Sponsorship Coordinator 2024 - Present**
