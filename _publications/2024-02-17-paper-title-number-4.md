@@ -4,10 +4,6 @@ collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Enrolled in the elite Arts Unionville Dance Program at Unionville High School, receiving advanced training in contemporary, jazz, hip hop, and stage performance. Developed strong technical skills, artistic expression, and stage presence through regular school and community performances<br/><img src="https://tiffanyjtfu.github.io/TiffanyFu/images/schoolau1.jpg">'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
 As a dedicated student in the prestigious Arts Unionville Dance Program at Unionville High School, Tiffany has received advanced, conservatory-style training in contemporary dance, jazz, hip hop, and stage performance. This intensive program has allowed her to cultivate strong technical skills, artistic expression, and confident stage presence.
