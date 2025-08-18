@@ -32,7 +32,7 @@ Tiffany also played a leading role in planning and hosting Shad York’s **Open 
 
 Her academic interests span **political science**, **psychology**, **economics**, and **law**, reflecting a long-term goal of understanding how **human behavior and governance intersect** to create meaningful and lasting societal change.
 
-##Research & Innovation Projects
+## Research & Innovation Projects
 
 <a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject" target='_blank'>Social Science Research Project 2024</a>
 <br>**Research Mentor**: Dr. Tao Wang (University of Toronto)
