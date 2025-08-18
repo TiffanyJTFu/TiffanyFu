@@ -2,11 +2,9 @@
 title: "Achievements"
 excerpt: ""
 collection: portfolio
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 permalink: /portfolio/Achievements
 ---
-Ignite Fair organizaiont - Sponsorship Coordinator 2024 - Present
-Ignite Fair organizaiont - Sponsorship Coordinator 2024 - Present
-
 * **Ignite Fair organizaiont - Sponsorship Coordinator 2024 - Present**
   * Ignite Fair is a student-led non-profit organization that empowers youth by promoting STEM education, leadership, and innovation through events and community outreach
   * Served as Sponsorship Coordinator for the "Ignite the Stage" event at September 2025, a youth-led showcase aimed at inspiring creativity, public speaking, and student engagement
