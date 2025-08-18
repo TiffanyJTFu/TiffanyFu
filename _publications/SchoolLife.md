@@ -2,7 +2,7 @@
 title: "School Life"
 collection: publications
 category: conferences
-permalink: /publication/SchoolLife
+permalink: /publications/SchoolLife
 excerpt: 'An academically driven and creatively engaged student with a strong passion for cultural expression, leadership, and community service. Actively involved in dance performance, school clubs (Model UN, Mock Trial), research programs, and innovation challenges. Dedicated to making a positive impact through volunteering, and cross-cultural initiatives.'
 ---
 
