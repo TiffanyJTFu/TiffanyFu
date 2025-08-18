@@ -7,7 +7,49 @@ redirect_from:
   - /about.html
 ---
 
-Tiffany is a dynamic ad creative individual passionate about cultural expression, community engagement, and social impact. With over 13 years in Classical Chinese dance, she shares her heritage through performance while also exploring creativity in baking and cooking. Dedicated to giving back, she actively volunteers, participates in charities supporting sick children, and assists with local city festivals. She has also contributed to a social science and psychology research project with a University of Toronto professor, gaining experience in data collection and analysis. Her academic interests in political science, psychology, economics and law reflect her goal of understanding how human behaviour and governance intersect to drive meaningful change.
+Tiffany is a dynamic and creative student with a strong passion for cultural expression, community engagement, and social impact. With over 13 years of training in Ballet, Classical Chinese dance, and Modern dance, she is currently pursuing additional certification through the Arts Unionville Dance Program at Unionville High School in Ontario. Tiffany shares her cultural heritage through performance, blending tradition with storytelling, and frequently performs at multicultural festivals and community events.
+
+Beyond the performing arts, Tiffany is actively involved in non-profit organizations. She has served as both Sponsorship Coordinator and Outreach Executive, where she contributed to event planning, sponsor outreach, logistics, and day-of execution. Her responsibilities included researching and contacting potential sponsors, developing sponsorship packages, and helping secure financial and in-kind support to ensure successful events.
+
+Tiffany also actively participates in her school’s Model United Nations (Model UN) Club. She took part in the Toronto Model UN Conference, where she represented various countries in formal UN simulations, debated global issues, and honed her skills in diplomacy, public speaking, and negotiation.
+
+In addition, Tiffany is a dedicated member of the Mock Trial Club, where she participates in simulated courtroom trials. She has collaborated with peers to prepare case materials, construct legal arguments, and role-play as attorneys and witnesses. Through these experiences, she has developed a foundational understanding of legal processes, courtroom etiquette, and critical reasoning.
+
+Tiffany also expresses her creativity through baking and cooking, often contributing to charity bake sales and school fundraising events that support meaningful causes.
+
+Her commitment to giving back is evident through her ongoing volunteer work at local festivals, community events, and with charities supporting sick and hospitalized children.
+
+Tiffany’s curiosity and dedication to academic growth have led her to research opportunities in both social science and psychology. She collaborated with a University of Toronto professor on a research project that involved literature review, survey design, and data analysis focused on adolescent health and cross-cultural education.
+
+In Summer 2024, Tiffany attended the Brown University Pre-College Program in Leadership and Social Change, where she completed an independent social science research project titled:
+“The Lack of Cultural Awareness in Markham: Challenges and Opportunities for Youth Engagement.”
+Supervised by a Brown University assistant professor, the project explored the effects of cultural disconnect among youth in one of Canada’s most diverse cities and proposed actionable solutions to enhance cross-cultural understanding and inclusion.
+
+In Summer 2025, Tiffany was selected to participate in Shad York, a nationally recognized Shad Canada enrichment program focused on STEAM, entrepreneurship, and leadership. As part of the program, she co-developed an innovation prototype called ICELERT, designed to detect and alert drivers of icy road conditions to help prevent traffic accidents. She contributed to both the technical concept and business planning process.
+
+Tiffany also played a leading role in planning and hosting Shad York’s Open Day Celebration and Evening Variety Show. As one of the Masters of Ceremonies (MCs), she introduced speakers and performers, engaged the audience, and ensured the smooth flow of the events through coordination and stage management.
+
+Her academic interests span political science, psychology, economics, and law, reflecting a long-term goal of understanding how human behavior and governance intersect to create meaningful and lasting societal change.
+
+**Research & Innovation Projects**
+
+<a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject" target='_blank'>Social Science Research Project 2024</a>
+<br>Research Mentor: Dr. Tao Wang (University of Toronto)
+<br>**Topic:** Cross-Cultural Education Methods and Adolescents’ Physical and Mental Health
+* Conducted literature review, assisted in survey design, and supported data collection and analysis.
+
+<a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject" target='_blank'>Brown University Pre-College Program – Social Science Research Project (2024)</a>
+<br>**Topic:** The Lack of Cultural Awareness in Markham: Challenges and Opportunities for Youth Engagement
+* Completed under the mentorship of a Brown University professor as part of the Leadership and Social Change course.
+* Researched the effects of cultural disconnect among youth and proposed engagement-based solutions for community improvement.
+
+<a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject" target='_blank'>Innovation Project – Shad York (2025)</a>
+<br>**Project Title:** ICELERT
+* Collaborated with a team to develop a working prototype aimed at improving road safety through ice hazard detection.
+*Participated in the design process, business planning, and innovation pitch sessions.
+<br><a href="https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan.pdf" target="_blank" rel="noopener noreferrer">Download Business Plan</a>
+
+[Download Business Plan] (Insert hyperlink if available)
 
 <a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject" target='_blank'>Social Science Research Project 2024</a>
 <br>**Project Topic:** Cross-cultural Education Methods and Adolescents' Physical and Mental Health
