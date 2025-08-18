@@ -47,6 +47,7 @@ Her academic interests span political science, psychology, economics, and law, r
 <br>**Project Title:** ICELERT
 * Collaborated with a team to develop a working prototype aimed at improving road safety through ice hazard detection.
 *Participated in the design process, business planning, and innovation pitch sessions.
+
 <br><a href="https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan.pdf" target="_blank" rel="noopener noreferrer">Download Business Plan</a>
 
 
