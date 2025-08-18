@@ -4,9 +4,6 @@ collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'An academically driven and creatively engaged student with a strong passion for cultural expression, leadership, and community service. Actively involved in dance performance, school clubs (Model UN, Mock Trial), research programs, and innovation challenges. Dedicated to making a positive impact through volunteering, and cross-cultural initiatives.'
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
 Throughout her school life, Tiffany has pursued a well-rounded and purpose-driven path marked by academic curiosity, artistic passion, and meaningful community involvement. She has consistently excelled in her studies while actively participating in enrichment programs such as the Shad Canada Program and the Brown University Pre-College Program, where she completed research and innovation projects in social science and STEM.
