@@ -47,18 +47,7 @@ Her academic interests span political science, psychology, economics, and law, r
 <br>**Project Title:** ICELERT
 * Collaborated with a team to develop a working prototype aimed at improving road safety through ice hazard detection.
 *Participated in the design process, business planning, and innovation pitch sessions.
-<br><a href="https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan.pdf" target="_blank" rel="noopener noreferrer">Download Business Plan</a>
+<a href="https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan.pdf" target="_blank" rel="noopener noreferrer">Download Business Plan</a>
 
-[Download Business Plan] (Insert hyperlink if available)
-
-<a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject" target='_blank'>Social Science Research Project 2024</a>
-<br>**Project Topic:** Cross-cultural Education Methods and Adolescents' Physical and Mental Health
-
-<a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject-1" target='_blank'>Social Science Research Project - Brown University Pre-College Program 2024</a>
-<br>**Project Topic:** The Lack of Cultural Awareness in Markham: Challenges and Opportunities for Youth Engagement
-
-<a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/InnovationProject" target='_blank'>Innovation Project - Shad York 2025</a>
-<br>**Innovation Project:** ICELERT
-<br><a href="https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan.pdf" target="_blank" rel="noopener noreferrer">Download Business Plan</a>
 
 
