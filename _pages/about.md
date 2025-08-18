@@ -44,8 +44,8 @@ Her academic interests span **political science**, **psychology**, **economics**
 * Completed under the mentorship of a Brown University professor as part of the Leadership and Social Change course.
 * Researched the effects of cultural disconnect among youth and proposed engagement-based solutions for community improvement.
 
-<a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject" target='_blank'>Innovation Project – Shad York (2025)</a>
-<br>**Project Title:** ICELERT
+<a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject" target='_blank'>ICELERT – Innovation Prototype Project | Shad York 2025</a>
+<br>**ICELERT – Innovation Prototype Project** 
 * Collaborated with a team to develop a working prototype aimed at improving road safety through ice hazard detection.
 *Participated in the design process, business planning, and innovation pitch sessions.
 <br><a href="https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan.pdf" target="_blank" rel="noopener noreferrer">Download Business Plan</a>
