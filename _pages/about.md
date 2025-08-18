@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![profile](https://tiffanyjtfu.github.io/TiffanyFu/images/tiffanyprofile.JPG)
+![profile](https://tiffanyjtfu.github.io/TiffanyFu/images/tiffanyprofile1.JPG)
 
 Tiffany is a dynamic and creative student with a strong passion for **cultural expression**, **community engagement**, and **social impact**. With over 13 years of training in **Ballet**, **Classical Chinese dance**, and **Modern dance**, she is currently pursuing additional certification through the **Arts Unionville Dance Program** at Unionville High School in Ontario. Tiffany shares her cultural heritage through performance, blending tradition with storytelling, and frequently performs at multicultural festivals and community events.
 
