@@ -2,6 +2,7 @@
 title: "Achievements"
 excerpt: ""
 collection: portfolio
+permalink: /teaching/SocialScienceResearchProject
 ---
 Ignite Fair organizaiont - Sponsorship Coordinator 2024 - Present
 Ignite Fair organizaiont - Sponsorship Coordinator 2024 - Present
