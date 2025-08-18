@@ -1,9 +1,8 @@
 ---
 title: "Activities"
-excerpt: "Actively engaged in a wide range of extracurriculars, including cultural dance performance, school clubs (Model UN, Mock Trial), community volunteering, innovation competitions, and charity events. Demonstrated leadership, collaboration, and a commitment to social impact.<br/><img src='https://tiffanyjtfu.github.io/TiffanyFu/images/shad3.jpeg'>"
+excerpt: 'Actively engaged in a wide range of extracurriculars, including cultural dance performance, school clubs (Model UN, Mock Trial), community volunteering, innovation competitions, and charity events. Demonstrated leadership, collaboration, and a commitment to social impact.<br/><img src="https://tiffanyjtfu.github.io/TiffanyFu/images/shad3.jpeg">'
 collection: portfolio
 ---
-
 * **Community Outreach Volunteer – MPP Team 08/2025**
   * Volunteered with Markham MPP Billy Pang’s team to distribute community information leaflets and support local outreach efforts
 * **School Model United Nations (Model UN) Club 2024 -Precent**
