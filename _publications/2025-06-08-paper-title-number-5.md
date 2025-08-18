@@ -3,7 +3,7 @@ title: "Paper Title Number 5, with math $$E=mc^2$$"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'An academically driven and creatively engaged student with a strong passion for cultural expression, leadership, and community service. Actively involved in dance performance, school clubs (Model UN, Mock Trial), research programs, and innovation challenges. Dedicated to making a positive impact through volunteering, and cross-cultural initiatives.'
 venue: 'GitHub Journal of Bugs'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
