@@ -4,9 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/SocialScienceResearchProject-1
 paperurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/Step 8B_ Action plan Final Report - Tiffany Fu.pdf'
-venue: ""
 ---
-
 **Project Topic:** The Lack of Cultural Awareness in Markham: Challenges and Opportunities for Youth Engagement
 <br><br>**Project Background**
 This project was completed as part of the **Brown University Pre-College Program – Leadership and Social Change**, under the guidance of an assistant professor. The research focused on the issue of cultural awareness in Markham, one of Canada’s most diverse cities. Despite its multicultural population, the city continues to face challenges related to intercultural understanding, particularly among youth.
