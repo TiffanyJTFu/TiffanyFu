@@ -3,7 +3,7 @@ title: "Social Science Research Project - Brown University Pre-College Program 2
 collection: teaching
 type: ""
 permalink: /teaching/SocialScienceResearchProject-1
-paperurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan.pdf'
+paperurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/Step 8B_ Action plan Final Report - Tiffany Fu'
 venue: ""
 ---
 
