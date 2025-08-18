@@ -1,8 +1,7 @@
 ---
 title: "Achievements"
-excerpt: ""
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/dancepointingtothemoons1.PNG'>"
 collection: portfolio
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 ---
 * **Ignite Fair organizaiont - Sponsorship Coordinator 2024 - Present**
   * Ignite Fair is a student-led non-profit organization that empowers youth by promoting STEM education, leadership, and innovation through events and community outreach
