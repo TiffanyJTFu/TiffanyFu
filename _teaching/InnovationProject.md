@@ -1,5 +1,5 @@
 ---
-title: "ICELERT – Innovation Prototype Project | Shad York 2025"
+title: "ICELERT – Innovation Prototype Project - Shad York 2025"
 collection: teaching
 type: ""
 permalink: /teaching/InnovationProject
