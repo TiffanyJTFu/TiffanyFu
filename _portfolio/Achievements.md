@@ -1,6 +1,6 @@
 ---
 title: "Achievements"
-excerpt: "Consistently demonstrated academic strength, creativity, and leadership through research projects, innovation challenges, and active involvement in school and community programs.<br/><img src='https://tiffanyjtfu.github.io/TiffanyFu/images/shad3.jpeg'>"
+excerpt: "Consistently demonstrated academic strength, creativity, and leadership through research projects, innovation challenges, and active involvement in school and community programs.<br/><img src='https://tiffanyjtfu.github.io/TiffanyFu/images/shad3.jpeg'<img src='https://tiffanyjtfu.github.io/TiffanyFu/images/shadproject1.png'>"
 collection: portfolio
 ---
 * **Ignite Fair organizaiont - Sponsorship Coordinator 2024 - Present**
