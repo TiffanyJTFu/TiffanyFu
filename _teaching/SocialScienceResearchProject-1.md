@@ -26,5 +26,6 @@ Evaluation will focus on both quantitative and qualitative metrics:
 * Fundraising efforts in support of anti-Asian hate awareness
 * Member satisfaction and cultural impact, assessed through regular feedback surveys
 * Semi-annual debrief sessions with executive members to reflect on progress and improve programming
+
 <br>A six-month review will be used as the first major checkpoint to assess outcomes against established goals. Key performance indicators will include membership numbers, event participation, and funds raised. Success will be defined by achieving (or approaching) these targets while creating a positive, culturally empowering environment for all involved.
 
