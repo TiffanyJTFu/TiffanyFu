@@ -28,4 +28,8 @@ Evaluation will focus on both quantitative and qualitative metrics:
 * Semi-annual debrief sessions with executive members to reflect on progress and improve programming
 
 <br>A six-month review will be used as the first major checkpoint to assess outcomes against established goals. Key performance indicators will include membership numbers, event participation, and funds raised. Success will be defined by achieving (or approaching) these targets while creating a positive, culturally empowering environment for all involved.
+<br><br>**Self-Reflection**
+<br>Developing this action plan was both a meaningful and personal journey. Motivated by firsthand experiences of discrimination, I approached this project with strong determination and a deep sense of purpose. While the process was more detailed and demanding than expected, it pushed me to think critically and plan thoroughly—skills I had not fully exercised before at this level.
+
+The greatest challenge was adapting to the level of depth required in planning, but it ultimately became one of the most rewarding aspects. Completing the plan gave me a strong sense of accomplishment and reaffirmed my commitment to making a positive impact. This experience not only strengthened my leadership and planning abilities, but also reinforced my belief in the importance of cultural representation and youth-driven change.
 
