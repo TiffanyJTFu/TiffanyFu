@@ -18,3 +18,13 @@ The club aims to raise awareness, strengthen cultural identity, and promote unde
 Short-term goals include successfully running the club for at least one semester and gathering feedback for continuous improvement. Long-term goals involve expanding the initiative beyond the school by partnering with organizations like the Asian Solidarity Fund, with the ultimate vision of transforming the club into a youth-led non-profit that combats Asian hate and promotes cultural representation across the broader community.
 
 By combining personal experience, leadership, and cultural knowledge, this plan seeks to create lasting change through education, representation, and community engagement.
+<br><br>**Evaluation**
+The success of this initiative will be measured by the club’s ability to promote cultural appreciation, foster inclusivity, and challenge stereotypes surrounding Chinese culture. The club aims to serve as a welcoming space where students can celebrate cultural identity, share experiences, and engage in meaningful activities.
+
+Evaluation will focus on both quantitative and qualitative metrics:
+* Growth and engagement of club membership
+* Fundraising efforts in support of anti-Asian hate awareness
+* Member satisfaction and cultural impact, assessed through regular feedback surveys
+* Semi-annual debrief sessions with executive members to reflect on progress and improve programming
+A six-month review will be used as the first major checkpoint to assess outcomes against established goals. Key performance indicators will include membership numbers, event participation, and funds raised. Success will be defined by achieving (or approaching) these targets while creating a positive, culturally empowering environment for all involved.
+
