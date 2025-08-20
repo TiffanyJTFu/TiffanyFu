@@ -33,13 +33,13 @@ location: "Toronto, Canada"
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancepointingtothemoons.PNG)
 
-![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancepointingtothemoonbh9.JPG)
-
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetimelesslovew1.JPG)
 
-![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetimelesslovew3.JPEG)
+![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancepointingtothemoonbh9.JPG)
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetimelessloveb5.JPG)
+
+![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetimelesslovew3.JPEG)
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetimelessloveb3.JPG)
 
