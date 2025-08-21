@@ -3,7 +3,6 @@ title: "Social Science Research Project 2024"
 collection: teaching
 type: ""
 permalink: /teaching/SocialScienceResearchProject
-paperurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/Step 8B_ Action plan Final Report - Tiffany Fu.pdf'
 ---
 
 **Project Topic:** Cross-cultural Education Methods and Adolescents' Physical and Mental Health
