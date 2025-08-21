@@ -33,6 +33,8 @@ location: "Toronto, Canada"
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancepeacock2.JPG)
 
+![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/danceballet1.JPEG)
+
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancepointingtothemoons.PNG)
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetimelesslovew1.JPG)
@@ -45,7 +47,7 @@ location: "Toronto, Canada"
 
 ![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/dancetimelessloveb3.JPG)
 
-![Dance10](https://tiffanyjtfu.github.io/TiffanyFu/images/danceballet1.JPEG)
+
 
 
 
