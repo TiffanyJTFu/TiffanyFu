@@ -3,6 +3,7 @@ title: "Social Science Research Project - Brown University Pre-College Program 2
 collection: teaching
 type: ""
 permalink: /teaching/SocialScienceResearchProject-1
+slidesurl: 'http://academicpages.github.io/files/Action plan Presentation.mp4'
 paperurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/Step 8B_ Action plan Final Report - Tiffany Fu.pdf'
 ---
 **Project Topic:** The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity
