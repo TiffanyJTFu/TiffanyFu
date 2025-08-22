@@ -4,6 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/InnovationProject
 paperurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan.pdf'
+paperurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan.pdf'
 ---
 **ICELERT – Innovation Prototype Project** 
 <br><br>**Problem**
