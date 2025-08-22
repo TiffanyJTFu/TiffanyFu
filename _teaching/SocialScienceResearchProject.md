@@ -80,6 +80,8 @@ To address this need, Leading Tomorrow, a non-profit organization, has launched 
 
 ![SocialScience03](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject3.jpg)
 
+![SocialScience05](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject6.JPG)
+
 ![SocialScience05](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject5.JPG)
 
 ![SocialScience08](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject8.jpg)
