@@ -39,7 +39,7 @@ Her academic interests span **political science**, **psychology**, **economics**
 <br>**Topic:** Cross-Cultural Education Methods and Adolescents’ Physical and Mental Health
 * Conducted literature review, assisted in survey design, and supported data collection and analysis.
 
-<br><a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject" target='_blank'>Brown University Pre-College Program – Social Science Research Project (2024)</a>
+<br><a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject-1" target='_blank'>Brown University Pre-College Program – Social Science Research Project (2024)</a>
 <br>**Topic:** The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity
 * Completed under the mentorship of a Brown University professor as part of the Leadership and Social Change course.
 * Researched the effects of cultural disconnect among youth and proposed engagement-based solutions for community improvement.
