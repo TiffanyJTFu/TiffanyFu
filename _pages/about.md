@@ -48,7 +48,7 @@ Her academic interests span **political science**, **psychology**, **economics**
 </a> | <a href="https://tiffanyjtfu.github.io/TiffanyFu/files/Action plan Presentation.mp4" target="_blank" rel="noopener noreferrer">Presentation Video</a>
 <br><a href="https://tiffanyjtfu.github.io/TiffanyFu/files/Action plan Presentation.mp4" target="_blank" rel="noopener noreferrer">Presentation Video</a>
 
-<br><a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject" target='_blank'>ICELERT – Innovation Prototype Project | Shad York 2025</a>
+<br><a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/InnovationProject" target='_blank'>ICELERT – Innovation Prototype Project | Shad York 2025</a>
 <br>**ICELERT – Innovation Prototype Project** 
 * Collaborated with a team to develop a working prototype aimed at improving road safety through ice hazard detection.
 *Participated in the design process, business planning, and innovation pitch sessions.
