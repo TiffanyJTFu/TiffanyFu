@@ -67,9 +67,11 @@ paperurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan
 
 ![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shadproject1.png)
 
+![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shad5.jpg)
+
 ![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shad3.jpeg)
 
-![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shad5.jpg)
+
 
 
 
