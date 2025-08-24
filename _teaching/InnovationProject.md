@@ -65,6 +65,8 @@ paperurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan
   * Continuously evaluate the effectiveness of interventions using accident and response data.
   * Adjust policies, resource allocation, and infrastructure planning based on evaluation results
 
+![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shad3.jpeg)
+
 ![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shadproject1.png)
 
 ![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shad5.jpg)
