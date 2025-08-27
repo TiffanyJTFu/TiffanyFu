@@ -12,9 +12,9 @@ Hi, I’m Tiffany — a dynamic and creative student with a deep passion for cul
 
 Beyond the performing arts, I’m actively involved in nonprofit organizations. I’ve served as both Sponsorship Coordinator and Outreach Executive, where I helped plan events, coordinated sponsor outreach, managed logistics, and supported day-of execution. My work included researching and contacting potential sponsors, developing sponsorship packages, and securing both financial and in-kind contributions to ensure successful events.
 
-At school, I participate in the Model United Nations (Model UN) Club, where I’ve represented countries at the Toronto Model UN Conference. These experiences have helped me develop a deeper understanding of global issues, diplomacy, and international relations, while also strengthening my public speaking and negotiation skills.
+At school, I participate in the **Model United Nations (Model UN) Club**, where I’ve represented countries at the Toronto Model UN Conference. These experiences have helped me develop a deeper understanding of global issues, diplomacy, and international relations, while also strengthening my public speaking and negotiation skills.
 
-I’m also an engaged member of the Mock Trial Club, where I participate in simulated courtroom trials. I work closely with my peers to prepare case materials, construct legal arguments, and role-play as attorneys and witnesses. These experiences have given me a solid foundation in legal processes, courtroom etiquette, and critical thinking.
+I’m also an engaged member of the **Mock Trial Club**, where I participate in simulated courtroom trials. I work closely with my peers to prepare case materials, construct legal arguments, and role-play as attorneys and witnesses. These experiences have given me a solid foundation in legal processes, courtroom etiquette, and critical thinking.
 
 Creativity plays a big role in my life beyond academics and performance. I enjoy baking and cooking, and I often contribute to charity bake sales and school fundraisers that support meaningful causes.
 
@@ -22,7 +22,7 @@ Giving back to the community is deeply important to me. I regularly volunteer at
 
 My curiosity and drive for academic growth have led me to pursue research opportunities in social science and psychology. I collaborated with **Dr. Tao Wang, a professor at the University of Toronto**, on a project titled **“Cross-Cultural Education Methods and Adolescents’ Physical and Mental Health.”** My role included conducting literature reviews, assisting with survey design, and supporting data collection and analysis.
 
-In Summer 2024, I attended the Brown University Pre-College Program in Leadership and Social Change, where I completed an independent research project titled: **“The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity.”** Under the mentorship of a Brown University assistant professor, I examined the effects of cultural disconnect among youth in one of Canada’s most diverse cities and proposed actionable strategies to improve inclusion and cross-cultural understanding.
+In Summer 2024, I attended the **Brown University Pre-College Program in Leadership and Social Change**, where I completed an independent research project titled: **“The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity.”** Under the mentorship of a Brown University assistant professor, I examined the effects of cultural disconnect among youth in one of Canada’s most diverse cities and proposed actionable strategies to improve inclusion and cross-cultural understanding.
 
 In Summer 2025, I was selected to participate in **Shad York**, a nationally recognized Shad Canada enrichment program focused on **STEAM**, entrepreneurship, and leadership. As part of the program, I co-developed **ICELERT**, an innovation prototype designed to detect and alert drivers of icy road conditions to help prevent accidents. I contributed to both the technical development and the business planning process.
 
