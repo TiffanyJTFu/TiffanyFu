@@ -24,9 +24,9 @@ My curiosity and drive for academic growth have led me to pursue research opport
 
 In Summer 2024, I attended the **Brown University Pre-College Program in Leadership and Social Change**, where I completed an independent research project titled: **“The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity.”** Under the mentorship of a Brown University assistant professor, I examined the effects of cultural disconnect among youth in one of Canada’s most diverse cities and proposed actionable strategies to improve inclusion and cross-cultural understanding.
 
-In Summer 2025, I was selected to participate in **Shad York**, a nationally recognized Shad Canada enrichment program focused on **STEAM**, entrepreneurship, and leadership. As part of the program, I co-developed **ICELERT**, an innovation prototype designed to detect and alert drivers of icy road conditions to help prevent accidents. I contributed to both the technical development and the business planning process.
+In Summer 2025, I was selected to participate in **Shad York**, a nationally recognized **Shad Canada enrichment program** focused on **STEAM**, entrepreneurship, and leadership. As part of the program, I co-developed **ICELERT**, an innovation prototype designed to detect and alert drivers of icy road conditions to help prevent accidents. I contributed to both the technical development and the business planning process.
 
-I also played a leading role in organizing and hosting Shad York’s Open Day Celebration and Evening Variety Show. As one of the **Masters of Ceremonies (MCs)**, I introduced speakers and performers, engaged the audience, and helped manage the stage to ensure a smooth and memorable experience.
+I also played a leading role in organizing and hosting **Shad York’s Open Day Celebration and Evening Variety Show**. As one of the **Masters of Ceremonies (MCs)**, I introduced speakers and performers, engaged the audience, and helped manage the stage to ensure a smooth and memorable experience.
 
 My academic interests span **political science, psychology, economics, and law**, reflecting a long-term goal of understanding how human behavior and governance intersect to create meaningful and lasting societal change.
 
