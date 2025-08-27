@@ -8,29 +8,27 @@ redirect_from:
 ---
 ![profile](https://tiffanyjtfu.github.io/TiffanyFu/images/tiffanyprofile1.JPG)
 
-Tiffany is a dynamic and creative student with a strong passion for **cultural expression**, **community engagement**, and **social impact**. With over 13 years of training in **Ballet**, **Classical Chinese dance**, and **Modern dance**, I'm currently pursuing additional certification through the **Arts Unionville Dance Program** at Unionville High School in Ontario. I share my cultural heritage through performance, blending tradition with storytelling, and frequently performs at multicultural festivals and community events.
+Hi, I’m Tiffany — a dynamic and creative student with a deep passion for cultural expression, community engagement, and social impact. I’ve trained in Ballet, Classical Chinese Dance, and Modern Dance for over 13 years, and I’m currently pursuing certification through the Arts Unionville Dance Program at Unionville High School in Ontario. I enjoy sharing my cultural heritage through performance, blending tradition with storytelling, and regularly appear at multicultural festivals and community events.
 
-Beyond the performing arts, I'm actively involved in **non-profit organizations**. I have served as both **Sponsorship Coordinator** and **Outreach Executive**, where I contributed to event planning, sponsor outreach, logistics, and day-of execution. My responsibilities included researching and contacting potential sponsors, developing sponsorship packages, and helping secure financial and in-kind support to ensure successful events.
+Beyond the performing arts, I’m actively involved in nonprofit organizations. I’ve served as both Sponsorship Coordinator and Outreach Executive, where I helped plan events, coordinated sponsor outreach, managed logistics, and supported day-of execution. My work included researching and contacting potential sponsors, developing sponsorship packages, and securing both financial and in-kind contributions to ensure successful events.
 
-I also actively participates in her school’s **Model United Nations (Model UN) Club**. I took part in the **Toronto Model UN Conference**, where I represented various countries in formal UN simulations, debated global issues, and honed her skills in diplomacy, public speaking, and negotiation.
+At school, I participate in the Model United Nations (Model UN) Club, where I’ve represented countries at the Toronto Model UN Conference. These experiences have helped me develop a deeper understanding of global issues, diplomacy, and international relations, while also strengthening my public speaking and negotiation skills.
 
-In addition, Tiffany is a dedicated member of the **Mock Trial Club**, where I participates in simulated courtroom trials. I has collaborated with peers to prepare case materials, construct legal arguments, and role-play as attorneys and witnesses. Through these experiences, I have developed a foundational understanding of legal processes, courtroom etiquette, and critical reasoning.
+I’m also an engaged member of the Mock Trial Club, where I participate in simulated courtroom trials. I work closely with my peers to prepare case materials, construct legal arguments, and role-play as attorneys and witnesses. These experiences have given me a solid foundation in legal processes, courtroom etiquette, and critical thinking.
 
-Tiffany also expresses her creativity through **baking and cooking**, often contributing to **charity bake sales** and **school fundraising events** that support meaningful causes.
+Creativity plays a big role in my life beyond academics and performance. I enjoy baking and cooking, and I often contribute to charity bake sales and school fundraisers that support meaningful causes.
 
-Her commitment to **giving back** is evident through her ongoing volunteer work at **local festivals**, **community events**, and with **charities supporting sick and hospitalized children**.
+Giving back to the community is deeply important to me. I regularly volunteer at local festivals, community events, and organizations that support sick and hospitalized children.
 
-Tiffany’s curiosity and dedication to academic growth have led her to **research opportunities** in both **social science and psychology**. I collaborated with a University of **Toronto professor** on a research project that involved literature review, survey design, and data analysis focused on adolescent health and cross-cultural education.
+My curiosity and drive for academic growth have led me to pursue research opportunities in social science and psychology. I collaborated with **Dr. Tao Wang, a professor at the University of Toronto**, on a project titled **“Cross-Cultural Education Methods and Adolescents’ Physical and Mental Health.”** My role included conducting literature reviews, assisting with survey design, and supporting data collection and analysis.
 
-In **Summer 2024**, Tiffany attended the **Brown University Pre-College Program** in Leadership and Social Change, where I completed an independent social science research project titled:
-**“The Lack of Cultural Awareness in Markham: Challenges and Opportunities for Youth Engagement.”**
-Supervised by a Brown University assistant professor, the project explored the effects of cultural disconnect among youth in one of Canada’s most diverse cities and proposed actionable solutions to enhance cross-cultural understanding and inclusion.
+In Summer 2024, I attended the Brown University Pre-College Program in Leadership and Social Change, where I completed an independent research project titled: **“The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity.”** Under the mentorship of a Brown University assistant professor, I examined the effects of cultural disconnect among youth in one of Canada’s most diverse cities and proposed actionable strategies to improve inclusion and cross-cultural understanding.
 
-In **Summer 2025**, Tiffany was selected to participate in **Shad York**, a nationally recognized **Shad Canada enrichment program** focused on **STEAM**, **entrepreneurship**, and **leadership**. As part of the program, I co-developed an **innovation prototype** called **ICELERT**, designed to detect and alert drivers of icy road conditions to help prevent traffic accidents. I contributed to both the technical concept and business planning process.
+In Summer 2025, I was selected to participate in **Shad York**, a nationally recognized Shad Canada enrichment program focused on **STEAM**, entrepreneurship, and leadership. As part of the program, I co-developed **ICELERT**, an innovation prototype designed to detect and alert drivers of icy road conditions to help prevent accidents. I contributed to both the technical development and the business planning process.
 
-Tiffany also played a leading role in planning and hosting Shad York’s **Open Day Celebration** and **Evening Variety Show**. As one of the **Masters of Ceremonies (MCs)**, I introduced speakers and performers, engaged the audience, and ensured the smooth flow of the events through coordination and stage management.
+I also played a leading role in organizing and hosting Shad York’s Open Day Celebration and Evening Variety Show. As one of the **Masters of Ceremonies (MCs)**, I introduced speakers and performers, engaged the audience, and helped manage the stage to ensure a smooth and memorable experience.
 
-Her academic interests span **political science**, **psychology**, **economics**, and **law**, reflecting a long-term goal of understanding how **human behavior and governance intersect** to create meaningful and lasting societal change.
+My academic interests span **political science, psychology, economics, and law**, reflecting a long-term goal of understanding how human behavior and governance intersect to create meaningful and lasting societal change.
 
 ## Research & Innovation Projects
 
