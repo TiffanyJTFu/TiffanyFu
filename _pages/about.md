@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![profile](https://tiffanyjtfu.github.io/TiffanyFu/images/tiffanyprofile1.JPG)
-
 ## Research & Innovation Projects
 
 <a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject" target='_blank'>1. Social Science Research Project 2024</a>
