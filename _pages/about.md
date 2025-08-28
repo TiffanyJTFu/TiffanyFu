@@ -35,6 +35,12 @@ redirect_from:
 *Participated in the design process, business planning, and innovation pitch sessions.
 
 <a href="https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan.pdf" target="_blank" rel="noopener noreferrer">Download Business Plan</a>
+<br>
+![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shadproject1.png)
+
+![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shad5.jpg)
+
+![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shad3.jpeg)
 
 Hi, I’m Tiffany — a dynamic and creative student with a deep passion for cultural expression, community engagement, and social impact. I’ve trained in Ballet, Classical Chinese Dance, and Modern Dance for over 13 years, and I’m currently pursuing certification through the Arts Unionville Dance Program at Unionville High School in Ontario. I enjoy sharing my cultural heritage through performance, blending tradition with storytelling, and regularly appear at multicultural festivals and community events.
 
