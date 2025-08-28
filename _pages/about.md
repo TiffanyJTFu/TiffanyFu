@@ -33,7 +33,7 @@ redirect_from:
 *Participated in the design process, business planning, and innovation pitch sessions.
 
 <a href="https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan.pdf" target="_blank" rel="noopener noreferrer">Download Business Plan
-</a> | <a href="https://tiffanyjtfu.github.io/TiffanyFu/files/Action plan Presentation.mp4" target="_blank" rel="noopener noreferrer">Watch ICELERT Pitch</a>&nbsp;
+</a> | <a href="https://tiffanyjtfu.github.io/TiffanyFu/files/DE 60s VID.mp4" target="_blank" rel="noopener noreferrer">Watch ICELERT Pitch</a>&nbsp;
 <br>
 
 ![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shadproject1.png)
