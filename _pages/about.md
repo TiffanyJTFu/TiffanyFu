@@ -10,7 +10,7 @@ redirect_from:
 
 ## Research & Innovation Projects
 
-<a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject" target='_blank'>Social Science Research Project 2024</a>
+<a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject" target='_blank'>1. Social Science Research Project 2024</a>
 <br>**Research Mentor**: Dr. Tao Wang (Assistant Professor at the School of Information, University of Toronto)
 <br>**Topic:** Cross-Cultural Education Methods and Adolescents’ Physical and Mental Health
 * Conducted literature review, assisted in survey design, and supported data collection and analysis.<br>
@@ -18,7 +18,7 @@ redirect_from:
 ![SocialScience11](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject11.JPG)
 ![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject1.jpg)
 
-<br><a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject-1" target='_blank'>Brown University Pre-College course in Leadership and Social Change – Social Science Research Project (2024)</a>
+<br><a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject-1" target='_blank'>2. Brown University Pre-College course in Leadership and Social Change – Social Science Research Project (2024)</a>
 <br>**Topic:** The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity
 * Completed under the mentorship of a Brown University professor as part of the Leadership and Social Change course.
 * Researched the effects of cultural disconnect among youth and proposed engagement-based solutions for community improvement.
@@ -29,7 +29,7 @@ redirect_from:
 
 ![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialsciencebrown.png)
 
-<br><a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/InnovationProject" target='_blank'>ICELERT – Innovation Prototype Project | Shad York 2025</a>
+<br><a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/InnovationProject" target='_blank'>3. ICELERT – Innovation Prototype Project | Shad York 2025</a>
 <br>**ICELERT – Innovation Prototype Project** 
 * Collaborated with a team to develop a working prototype aimed at improving road safety through ice hazard detection.
 *Participated in the design process, business planning, and innovation pitch sessions.
