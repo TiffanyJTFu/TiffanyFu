@@ -3,7 +3,7 @@ title: "ICELERT – Innovation Prototype Project - Shad York 2025"
 collection: teaching
 type: ""
 permalink: /teaching/InnovationProject
-paperurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan.pdf'
+slidesurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/DE 60s VID.mp4'
 paperurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan.pdf'
 ---
 ![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shadproject1.png)
