@@ -25,6 +25,9 @@ redirect_from:
 
 <a href="https://tiffanyjtfu.github.io/TiffanyFu/files/Step 8B_ Action plan Final Report - Tiffany Fu.pdf" target="_blank" rel="noopener noreferrer">Download Action Plan Report
 </a> | <a href="https://tiffanyjtfu.github.io/TiffanyFu/files/Action plan Presentation.mp4" target="_blank" rel="noopener noreferrer">Presentation Video</a>&nbsp;
+<br>
+
+![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialsciencebrown.png)
 
 <br><a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/InnovationProject" target='_blank'>ICELERT – Innovation Prototype Project | Shad York 2025</a>
 <br>**ICELERT – Innovation Prototype Project** 
