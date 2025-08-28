@@ -34,6 +34,7 @@ redirect_from:
 
 <a href="https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan.pdf" target="_blank" rel="noopener noreferrer">Download Business Plan</a>
 <br>
+
 ![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shadproject1.png)
 
 ![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shad5.jpg)
