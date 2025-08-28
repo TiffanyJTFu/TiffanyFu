@@ -63,6 +63,8 @@ I also played a leading role in organizing and hosting **Shad York’s Open Day 
 
 My academic interests span **political science, psychology, economics, and law**, reflecting a long-term goal of understanding how human behavior and governance intersect to create meaningful and lasting societal change.
 
+![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/tiffanyprofile1.JPG)
+
 
 
 
