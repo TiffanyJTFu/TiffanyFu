@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/SocialScienceResearchProject
 ---
-
+![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject1.jpg)
 **Project Topic:** Cross-cultural Education Methods and Adolescents' Physical and Mental Health
 <br>**Research Mentor**: Dr. Tao Wang (Assistant Professor at the School of Information, University of Toronto)
 <br><br>**Project Background**
