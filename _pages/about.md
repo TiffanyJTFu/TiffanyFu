@@ -13,7 +13,7 @@ redirect_from:
 <a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject" target='_blank'>Social Science Research Project 2024</a>
 <br>**Research Mentor**: Dr. Tao Wang (Assistant Professor at the School of Information, University of Toronto)
 <br>**Topic:** Cross-Cultural Education Methods and Adolescents’ Physical and Mental Health
-* Conducted literature review, assisted in survey design, and supported data collection and analysis.
+* Conducted literature review, assisted in survey design, and supported data collection and analysis.<br>
   
 ![SocialScience11](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject11.JPG)
 ![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject1.jpg)
