@@ -41,7 +41,7 @@ ACHIEVEMENTS AND ACTIVITIES
   * Led recruitment initiatives to increase membership and volunteer participation
   * Contributed to strategy meetings to improve outreach materials, event promotion, and chapter engagement
 * **School Model United Nations (Model UN) Club 2024 -Present**
-  * Participate to Toronto MUN (Module UN) competition 03/2025
+  * Participate to Toronto MUN (Model United Nations) competition 03/2025
   * Participated in mock UN simulations to develop diplomacy, public speaking, and negotiation skills.
   * Represented various countries in debates on global issues, following formal UN procedures.
   * Researched international policies and collaborated with peers to draft resolutions and deliver speeches
@@ -50,7 +50,7 @@ ACHIEVEMENTS AND ACTIVITIES
   * Participated in simulated courtroom trials to develop skills in public speaking, critical thinking, and legal reasoning.
   * Collaborated with team members to prepare case materials, construct arguments, and role-play as attorneys and witnesses.
   * Engaged in legal discussions and competitive practice sessions to improve courtroom etiquette and debate strategies.
-  * Gained foundational knowledge of courtroom procedures, legal terminology, and case anal
+  * Gained foundational knowledge of courtroom procedures, legal terminology, and case analysis skills. 
 * **Bakery Club 2024 -Present**
   * Participated in weekly baking sessions and school events to promote community involvement through baking
   * Helped prepare and sell baked goods at school fundraisers to support charities
