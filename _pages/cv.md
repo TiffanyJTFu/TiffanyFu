@@ -17,8 +17,8 @@ EDUCATION
 
 ACHIEVEMENTS AND ACTIVITIES
 ======
-* **Ignite Fair organization - Sponsorship Coordinator 2024 - Present**
-  * Ignite Fair is a student-led non-profit organization that empowers youth by promoting STEM education, leadership, and innovation through events and community outreach
+* **Ignite Fair organization - Sponsorship Coordinator 2024 - Present** 
+  * Ignite Fair is a student-led non-profit organization that empowers youth by promoting volunteering opportunities across the GTA, leadership, and innovation through events and community outreach.
   * Served as Sponsorship Coordinator for the "Ignite the Stage" event at September 2025, a youth-led showcase aimed at inspiring creativity, public speaking, and student engagement
   * Actively participated in planning and execution of the event, contributing to sponsor outreach, event logistics, and day-of coordination
   * Researched and contacted potential sponsors, developed sponsorship packages, and helped secure funding and in-kind support
@@ -40,18 +40,18 @@ ACHIEVEMENTS AND ACTIVITIES
   * Coordinated outreach efforts to expand the organization’s presence in schools and communities
   * Led recruitment initiatives to increase membership and volunteer participation
   * Contributed to strategy meetings to improve outreach materials, event promotion, and chapter engagement
-* **School Model United Nations (Model UN) Club 2024 -Precent**
+* **School Model United Nations (Model UN) Club 2024 -Present**
   * Participate to Toronto MUN (Module UN) competition 03/2025
   * Participated in mock UN simulations to develop diplomacy, public speaking, and negotiation skills.
   * Represented various countries in debates on global issues, following formal UN procedures.
   * Researched international policies and collaborated with peers to draft resolutions and deliver speeches
   * Engaged in regular club meetings, workshops, and internal conferences to strengthen leadership and global awareness
-* **School Mock Trial Club 2024 -Precent**
+* **School Mock Trial Club 2024 -Present**
   * Participated in simulated courtroom trials to develop skills in public speaking, critical thinking, and legal reasoning.
   * Collaborated with team members to prepare case materials, construct arguments, and role-play as attorneys and witnesses.
   * Engaged in legal discussions and competitive practice sessions to improve courtroom etiquette and debate strategies.
   * Gained foundational knowledge of courtroom procedures, legal terminology, and case anal
-* **Bakery Club 2024 -Precent**
+* **Bakery Club 2024 -Present**
   * Participated in weekly baking sessions and school events to promote community involvement through baking
   * Helped prepare and sell baked goods at school fundraisers to support charities
   * Collaborated with club members to organize bake sales, and handle customer service
