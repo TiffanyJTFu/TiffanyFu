@@ -1,5 +1,5 @@
 ---
-title: "Social Science Research Project - Brown University Pre-College Program 2024"
+title: "community social issue project - Brown University Pre-college leadership program - Social change and leadership 2024"
 collection: teaching
 type: ""
 permalink: /teaching/SocialScienceResearchProject-1
@@ -9,9 +9,10 @@ paperurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/Step 8B_ Action plan Fi
 ![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialsciencebrown.png)
 **Project Topic:** The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity
 <br><br>**Project Background**
-<br>This project addresses the ongoing issue of anti-Asian hate and cultural misrepresentation, particularly in the context of Chinese identity and youth experience. While anti-Asian racism became more visible during the COVID-19 pandemic, its roots run deep, dating back to the 19th century with discriminatory laws, exclusion acts, and violent events such as the 1871 Los Angeles Chinese Massacre. In both the United States and Canada, Asians have historically been marginalized, denied basic rights, and subjected to physical violence and systemic exclusion.
+<br>At Brown’s Leadership & Social Change program, I focused on a problem I felt close to: a spike in anti-Asian bias and how little many peers knew about Asian cultures. I didn’t want another abstract paper; I wanted a plan people could use. With guidance from a Brown mentor, I did independent research—researching about the rising anti-Asian racism and reviewing possible school-based interventions and communicating informally with classmates and teachers about what they were seeing. The pattern was clear: misinformation, shallow representation, and few structured chances for positive contact with my culture. From that analysis, I built a ready-to-launch action plan.
 
-Despite progress over time, racism and cultural disrespect persist—especially in educational and social environments. As a Chinese Canadian student, I has personally experienced discrimination and mockery, including being targeted with racial slurs and ridiculed for wearing traditional clothing. These painful moments became the catalyst for selecting this issue as the focus of a social action project. The goal is to raise awareness, promote cultural representation, and create space for youth to feel proud of their heritage while actively combating prejudice in their communities.
+It outlines a semester of low-cost, high-engagement modules—calligraphy and other realistic and fun workshops, foodways and language mini-lessons—paired with outreach scripts for social media, and reflection prompts for improvements. To make the case, I produced an impact presentation video; to make it actionable, I also wrote an implementation report with budget templates, roles, timelines, and risk-mitigation steps for sustainability. I left with tangible tools and a concrete feasible plan that any student team can adopt immediately. This project matters to me because it turns such a large social issue into structured learning opportunities. It offers anyone a practical, replicable path schools and communities can use to reduce bias and strengthen cross-cultural understanding of not just my culture but all cultures as well. 
+
 <br><br>**Action Plan**
 <br>To address the ongoing issue of anti-Asian discrimination and the misrepresentation of Chinese culture, this action plan proposes the creation of a Chinese Cultural Club at school. The goal is to foster a safe, inclusive, and engaging space where students can explore, share, and celebrate Chinese heritage through hands-on cultural activities such as calligraphy, traditional crafts, and storytelling.
 
