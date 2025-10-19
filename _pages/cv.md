@@ -68,10 +68,12 @@ ACHIEVEMENTS AND ACTIVITIES
   * Collaborated with team members to prepare case materials, construct arguments, and role-play as attorneys and witnesses.
   * Engaged in legal discussions and competitive practice sessions to improve courtroom etiquette and debate strategies.
   * Gained foundational knowledge of courtroom procedures, legal terminology, and case analysis skills. 
-* **Dessert Club 2024 -Present**
-  * Participated in weekly baking sessions and school events to promote community involvement through baking
-  * Helped prepare and sell baked goods at school fundraisers to support charities
-  * Collaborated with club members to organize bake sales, and handle customer service
+* **Dessert Club 2024 -Precent**
+  *Participated in weekly baking sessions and school events to promote community involvement through baking. 
+  * Learned a range of Asian desserts spanning multiple regions and traditions (e.g., mooncakes, mochi, Matcha cookies, Pineapple buns, Mango pancakes, etc.)
+  * Built key baking skills: glutinous-rice doughs, steamed cakes, custards, agar-agar gels, yeasted milk bread. 
+Helped prepare and sell baked goods at school fundraisers to support charities.
+  * Collaborated with club members to organize bake sales. 
 * **StarCatchers Dance Competition '25**
   * Solo- 1st place Platinum Award    
 * **Believe Dance Competition '25**
