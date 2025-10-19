@@ -17,6 +17,8 @@ EDUCATION
 
 ACHIEVEMENTS AND ACTIVITIES
 ======
+* **Citizenship Subject Award 2025**
+  * Unionville High School Citizenship Subject Award -Grade 11 Understanding Canada Law Award 
 * **Ignite Fair organization - Sponsorship Coordinator 2024 - Present** 
   * Ignite Fair is a student-led non-profit organization that empowers youth by promoting volunteering opportunities across the GTA, leadership, and innovation through events and community outreach.
   * Served as Sponsorship Coordinator for the "Ignite the Stage" event at September 2025, a youth-led showcase aimed at inspiring creativity, public speaking, and student engagement
