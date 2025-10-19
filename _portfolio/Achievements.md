@@ -5,12 +5,12 @@ collection: portfolio
 ---
 * **Citizenship Subject Award 2025**
   * Unionville High School Citizenship Subject Award -Grade 11 Understanding Canada Law Award 
-* **Ignite Fair organizaiont - Sponsorship Coordinator 2024 - Present**
-  * Ignite Fair is a student-led non-profit organization that empowers youth by promoting STEM education, leadership, and innovation through events and community outreach
-  * Served as Sponsorship Coordinator for the "Ignite the Stage" event at September 2025, a youth-led showcase aimed at inspiring creativity, public speaking, and student engagement
+* **Pledge for change NGO - Ignite Fair organization - Sponsorship Coordinator 2024 - Present**
+  * Ignite Fair is a student-led non-profit organization that empowers youth by promoting volunteering opportunities across the GTA, leadership, and innovation through events and community outreach.  
+  * Served as Sponsorship Coordinator for the “Ignite the Stage” event at September 2025, a youth-led showcase aimed at inspiring creativity, public speaking, and student engagement 
   * Actively participated in planning and execution of the event, contributing to sponsor outreach, event logistics, and day-of coordination
-  * Researched and contacted potential sponsors, developed sponsorship packages, and helped secure funding and in-kind support
-  * Collaborated with cross-functional team members to ensure smooth event execution and community impact
+  * Researched and contacted potential sponsors, developed sponsorship packages, and helped secure funding and in-kind support 
+  * Collaborated with cross-functional team members to ensure smooth event execution and community impact. 
 * **Shad York 2025**
   * Participated in the Shad Canada enrichment program focused on STEAM, entrepreneurship, and leadership
   * Engaged with professors across disciplines (engineering, business, design, data science) through daily lectures, labs, and Q&As.
