@@ -73,7 +73,20 @@ ACHIEVEMENTS AND ACTIVITIES
   * Learned a range of Asian desserts spanning multiple regions and traditions (e.g., mooncakes, mochi, Matcha cookies, Pineapple buns, Mango pancakes, etc.)
   * Built key baking skills: glutinous-rice doughs, steamed cakes, custards, agar-agar gels, yeasted milk bread. 
 Helped prepare and sell baked goods at school fundraisers to support charities.
-  * Collaborated with club members to organize bake sales. 
+  * Collaborated with club members to organize bake sales.
+* **Volunteer English Tutor 05/2025 - 06/2025**
+  * Tutored lower-grade immigrant students in English, focusing on basic language skills, vocabulary building, and especially classroom communication
+   * Adapted tutoring strategies to suit varying English proficiency levels and cultural backgrounds
+   * Demonstrated patience, empathy, and communication skills while fostering a supportive learning atmosphereram
+* **Unionville High School Open House 11/2024**
+   * Represented the school as a student volunteer during the School Open House for Grade 8 incoming 
+  families
+   * Introduced parents and prospective students to the school’s academic programs, extracurricular 
+  activities, and the Arts Unionville (AU) program, with a special focus on the Dance program
+   * Answered questions, shared personal experiences, and helped promote a positive image of the school 
+  community
+   * Contributed to fostering a welcoming environment and encouraging student engagement in school 
+  life
 * **StarCatchers Dance Competition '25**
   * Solo- 1st place Platinum Award    
 * **Believe Dance Competition '25**
