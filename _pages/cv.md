@@ -199,8 +199,9 @@ VOLUNTEER EXPERIENCE
 LANGUAGES
 ======
  * **English**
- * **Mandarin**
  * **French** 
+ * **Mandarin**
+
   
 
   
