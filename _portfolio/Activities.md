@@ -5,21 +5,23 @@ collection: portfolio
 ---
 * **Community Outreach Volunteer – MPP Team 08/2025**
   * Volunteered with Markham MPP Billy Pang’s team to distribute community information leaflets and support local outreach efforts
-* **School Model United Nations (Model UN) Club 2024 -Precent**
+* **Model United Nations (Model UN) Club 2024 -Precent**
   * Participate to Toronto MUN (Module UN) competition 03/2025
   * Participated in mock UN simulations to develop diplomacy, public speaking, and negotiation skills.
   * Represented various countries in debates on global issues, following formal UN procedures.  
   * Researched international policies and collaborated with peers to draft resolutions and deliver speeches
   * Engaged in regular club meetings, workshops, and internal conferences to strengthen leadership and global awareness
-* **School Mock Trial Club 2024 -Precent**
+* **Mock Trial Club 2024 -Precent**
   * Participated in simulated courtroom trials to develop skills in public speaking, critical thinking, and legal reasoning
   * Collaborated with team members to prepare case materials, construct arguments, and role-play as attorneys and witnesses
   * Engaged in legal discussions and competitive practice sessions to improve courtroom etiquette and debate strategies.
   * Gained foundational knowledge of courtroom procedures, legal terminology, and case anal
-* **Bakery Club 2024 -Precent**
-  * Participated in weekly baking sessions and school events to promote community involvement through baking
-  * Helped prepare and sell baked goods at school fundraisers to support charities
-  * Collaborated with club members to organize bake sales, and handle customer service
+* **Dessert Club 2024 -Precent**
+  *Participated in weekly baking sessions and school events to promote community involvement through baking. 
+  * Learned a range of Asian desserts spanning multiple regions and traditions (e.g., mooncakes, mochi, Matcha cookies, Pineapple buns, Mango pancakes, etc.)
+  * Built key baking skills: glutinous-rice doughs, steamed cakes, custards, agar-agar gels, yeasted milk bread. 
+Helped prepare and sell baked goods at school fundraisers to support charities.
+  * Collaborated with club members to organize bake sales. 
 * **Volunteer English Tutor 05/2025 - 06/2025**
   * Tutored lower-grade immigrant students in English, focusing on basic language skills, vocabulary building, and especially classroom communication
    * Adapted tutoring strategies to suit varying English proficiency levels and cultural backgrounds
