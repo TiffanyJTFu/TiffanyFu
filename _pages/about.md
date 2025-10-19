@@ -14,25 +14,6 @@ redirect_from:
 * This project investigates how AI chatbots can support teens facing mental health challenges when traditional care is inaccessible. Guided by Dr. Ganesh Mani (Carnegie Mellon), it evaluates various AI systems using a structured checklist and simulated teen scenarios to measure empathy, safety, and effectiveness. The goal is to identify the most supportive AI models and eventually develop a prototype chatbot that offers accessible, stigma-free mental health support for adolescents.<br>
 
 ![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/ai1.png)
-  
-<a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject" target='_blank'><i>**1. Social Science Research Project 2024**</i></a>
-<br>**Research Mentor**: Dr. Tao Wang (Assistant Professor at the School of Information, University of Toronto)
-<br>**Topic:** Cross-Cultural Education Methods and Adolescents’ Physical and Mental Health
-* Conducted literature review, assisted in survey design, and supported data collection and analysis.<br>
-  
-![SocialScience11](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject11.JPG)
-![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject1.jpg)
-
-<br><a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject-1" target='_blank'><i>**2. Brown University Pre-College course in Leadership and Social Change – Social Science Research Project (2024)**</i></a>
-<br>**Topic:** The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity
-* Completed under the mentorship of a Brown University professor as part of the Leadership and Social Change course.
-* Researched the effects of cultural disconnect among youth and proposed engagement-based solutions for community improvement.
-
-<a href="https://tiffanyjtfu.github.io/TiffanyFu/files/Step 8B_ Action plan Final Report - Tiffany Fu.pdf" target="_blank" rel="noopener noreferrer">Download Action Plan Report
-</a> | <a href="https://tiffanyjtfu.github.io/TiffanyFu/files/Action plan Presentation.mp4" target="_blank" rel="noopener noreferrer">Presentation Video</a>&nbsp;
-<br>
-
-![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialsciencebrown.png)
 
 <br><a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/InnovationProject" target='_blank'><i>**3. ICELERT – Innovation Prototype Project | Shad York 2025**</i></a>
 <br>**ICELERT – Innovation Prototype Project** 
@@ -48,6 +29,25 @@ redirect_from:
 ![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shad5.jpg)
 
 ![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shad3.jpeg)
+
+<br><a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject-1" target='_blank'><i>**2. Brown University Pre-College course in Leadership and Social Change – Social Science Research Project (2024)**</i></a>
+<br>**Topic:** The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity
+* Completed under the mentorship of a Brown University professor as part of the Leadership and Social Change course.
+* Researched the effects of cultural disconnect among youth and proposed engagement-based solutions for community improvement.
+
+<a href="https://tiffanyjtfu.github.io/TiffanyFu/files/Step 8B_ Action plan Final Report - Tiffany Fu.pdf" target="_blank" rel="noopener noreferrer">Download Action Plan Report
+</a> | <a href="https://tiffanyjtfu.github.io/TiffanyFu/files/Action plan Presentation.mp4" target="_blank" rel="noopener noreferrer">Presentation Video</a>&nbsp;
+<br>
+
+![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialsciencebrown.png)
+
+<a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject" target='_blank'><i>**1. Social Science Research Project 2024**</i></a>
+<br>**Research Mentor**: Dr. Tao Wang (Assistant Professor at the School of Information, University of Toronto)
+<br>**Topic:** Cross-Cultural Education Methods and Adolescents’ Physical and Mental Health
+* Conducted literature review, assisted in survey design, and supported data collection and analysis.<br>
+  
+![SocialScience11](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject11.JPG)
+![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject1.jpg)
 
 Hi, I’m Tiffany — a dynamic and creative student with a deep passion for cultural expression, community engagement, and social impact. I’ve trained in Ballet, Classical Chinese Dance, and Modern Dance for over 13 years, and I’m currently pursuing certification through the Arts Unionville Dance Program at Unionville High School in Ontario. I enjoy sharing my cultural heritage through performance, blending tradition with storytelling, and regularly appear at multicultural festivals and community events.
 
