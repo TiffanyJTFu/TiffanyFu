@@ -13,14 +13,22 @@ collection: portfolio
   * Collaborated with cross-functional team members to ensure smooth event execution and community impact
 * **Shad York 2025**
   * Participated in the Shad Canada enrichment program focused on STEAM, entrepreneurship, and leadership
-  * Collaborated as a team member to organize and execute the Open Day Celebration and Evening Variety Show
-  * Served as one of the Masters of Ceremonies (MCs), engaging the audience, introducing performers and speakers, and maintaining the flow of both events
-  * Contributed to event planning, logistics, and stage coordination to ensure a successful and memorable experience for guests and participants
-  * Innovation Project: ICELERT
-  * Collaborated with a team to develop ICELERT, an innovative prototype designed to detect and alert drivers of icy road conditions to prevent accidents
-  * Contributed to all phases of the project, including research, brainstorming, design, and prototyping
-  * Applied principles of STEAM and entrepreneurship to address a real-world problem through innovation
-  * Presented the prototype to peers, mentors, and judges as part of the final showcase
+  * Engaged with professors across disciplines (engineering, business, design, data science) through daily lectures, labs, and Q&As.
+  * Learned new topics and tools—design thinking, Coding, Biological dissection, environmental science, and pitch communication.
+  * Collaborated with other fellow shad york members to complete workshops, case studies, and assignments under tight timelines.
+  * Practiced professional skills: public speaking, slide design, concise writing, and constructive peer feedback.
+  * Developed leadership through workshops by leading team members during team tasks.
+  * Built a network by connecting with mentors, alumni, and industry speakers during lectures and workshops.
+  * Gained exposure to real-world problem framing, ethical considerations, and impact measurement in innovation contexts.
+  * Demonstrated adaptability and resilience in a fast-paced, residential learning environment.
+  * Collaborated as a team member to organize and execute the Open Day Celebration and Evening Variety Show to showcase our Final innovation projects (DE projects) developing leadership, organizing and management skills.
+  * Served as one of the Masters of Ceremonies (MCs), engaging the audience, introducing performers and speakers, and maintaining the flow of both events.
+  * Contributed to event planning, logistics, and stage coordination to ensure a successful and memorable experience for guests and participants. 
+  * Innovation Project (DE): ICELERT
+    * Collaborated with a team to develop ICELERT, an innovative prototype designed to detect and alert drivers of icy road conditions to prevent accidents
+    * Contributed to all phases of the project, including research, brainstorming, design, and prototyping
+    * Applied principles of STEAM and entrepreneurship to address a real-world problem through innovation
+    * Presented the prototype to peers, mentors, and judges as part of the final showcase
   * Certificate of Completion
 * **United Speakers Global - Outreach Executive 09/2024 - 2025**
   * United Speakers Global is a student-led non-profit organization dedicated to empowering youth through public speaking, communication, and leadership development. The organization provides workshops, events, and mentorship opportunities to help students build confidence and become effective communicators in their communities
