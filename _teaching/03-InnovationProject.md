@@ -7,7 +7,8 @@ slidesurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/DE 60s VID.mp4'
 paperurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan.pdf'
 ---
 ![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shadproject1.png)
-**ICELERT – Innovation Prototype Project** 
+
+<br>**Project: ICELERT – Innovation Prototype Project** 
 <br><br>**Project Background**
 At SHAD, my team and I tackled a problem every Canadian driver knows too well: winter roads. Canada sees about 160,000 crashes a year, and roughly 30% are tied to winter conditions. Our question was simple: how can we warn drivers about black ice in real time—without waiting years for new road infrastructure?
 We built ICELERT: a small, vehicle-mounted thermal sensor that scans the pavement ~30 meters ahead and flags dangerous surface conditions in a paired mobile app to help and connect people to be wary of dangerous roads especially in unpredictable weather like black ice. I led the market research and feasibility work—referencing already existing tools and technologies, connecting and listening to commuters, and translating their needs into clear requirements for our device: early warning, easy install, and an approachable price. Across the process, we gathered input from 100+ people across Canada to shape features and UX, and we worked with two U of T civil engineering professors who advised us on feasibility, testing conditions, and deployment constraints.
