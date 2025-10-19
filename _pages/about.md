@@ -16,7 +16,7 @@ redirect_from:
 ![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/ai1.png)
 
 <br><a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/InnovationProject" target='_blank'><i>**2. ICELERT – Innovation Prototype Project | Shad York 2025**</i></a>
-<br>**ICELERT – Innovation Prototype Project** 
+<br>**Project: ICELERT – Innovation Prototype Project** 
 * Collaborated with a team to develop a working prototype aimed at improving road safety through ice hazard detection.
 *Participated in the design process, business planning, and innovation pitch sessions.
 
@@ -31,7 +31,7 @@ redirect_from:
 ![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shad3.jpeg)
 
 <br><a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject-1" target='_blank'><i>**3. Brown University Pre-college leadership program - Social change and leadership - community social issue project 2024**</i></a>
-<br>**Topic:** The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity
+<br>**Project Topic:** The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity
 * Completed under the mentorship of a Brown University professor as part of the Leadership and Social Change course.
 * Researched the effects of cultural disconnect among youth and proposed engagement-based solutions for community improvement.
 
@@ -42,8 +42,8 @@ redirect_from:
 ![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialsciencebrown.png)
 
 <a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject" target='_blank'><i>**4. Social Science Research Project 2024**</i></a>
+<br>**Project Topic:** Cross-Cultural Education Methods and Adolescents’ Physical and Mental Health
 <br>**Research Mentor**: Dr. Tao Wang (Assistant Professor at the School of Information, University of Toronto)
-<br>**Topic:** Cross-Cultural Education Methods and Adolescents’ Physical and Mental Health
 * Conducted literature review, assisted in survey design, and supported data collection and analysis.<br>
   
 ![SocialScience11](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject11.JPG)
