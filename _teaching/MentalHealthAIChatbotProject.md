@@ -14,11 +14,15 @@ After collecting my data, I will create/analyze a presentation (with data graphs
 
 **Project Details**
 * Analyzed previous AI research methods across qualitative, quantitative, and mixed-methods designs; mapped strengths, biases, and threats to validity in LLM mental-health studies.
-
 * Designed a mixed-methods study (modeled on peer-reviewed therapist vs. LLM work) under guidance from Prof. Ganesh Mani (CMU). 
-
-
-* **Generate scientific insight:** Understand the impact of parenting and educational methods on youth development.
+* Mentored by Prof. Ganesh Mani (Carnegie Mellon); Phase I (design/pilots) completed; Phase II (full data collection/analysis) in progress, with conclusions forthcoming.
+* Built a 4-step evaluation method: clinician-inspired rubric (validation, open Qs, concrete steps, safety/referrals) → synthetic teen personas → standardized scenarios → rubric-based scoring. 
+* Created synthetic teen personas reflecting common stressors among adolescents (academics, family conflict, sleep, social pressure) for standardized testing..
+  ** Engineered synthetic adolescent personas to safely simulate high-risk scenarios without human subjects or identifiable data.
+** Designed IRB-eligible, non-human-subjects personas enabling low-risk evaluation of AI support tools.
+** Built structured synthetic user profiles with scripted backstories and goals to control for variability in chatbot trials.
+ 
+* Mentored by Prof. Ganesh Mani (Carnegie Mellon); Phase I (design/pilots) completed; Phase II (full data collection/analysis) in progress, with conclusions forthcoming.
 
 **Project Details**
 <br>**Phase I: Recruitment and Team Formation**
