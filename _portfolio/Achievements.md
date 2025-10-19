@@ -3,6 +3,8 @@ title: "Achievements"
 excerpt: "Consistently demonstrated academic strength, creativity, and leadership through research projects, innovation challenges, and active involvement in school and community programs.<br/><img src='https://tiffanyjtfu.github.io/TiffanyFu/images/shad3.jpeg'><img src='https://tiffanyjtfu.github.io/TiffanyFu/images/shadproject1.png'>"
 collection: portfolio
 ---
+* **Citizenship Subject Award 2025**
+  * Unionville High School Citizenship Subject Award -Grade 11 Understanding Canada Law Award 
 * **Ignite Fair organizaiont - Sponsorship Coordinator 2024 - Present**
   * Ignite Fair is a student-led non-profit organization that empowers youth by promoting STEM education, leadership, and innovation through events and community outreach
   * Served as Sponsorship Coordinator for the "Ignite the Stage" event at September 2025, a youth-led showcase aimed at inspiring creativity, public speaking, and student engagement
