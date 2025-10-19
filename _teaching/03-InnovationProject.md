@@ -14,6 +14,20 @@ We built ICELERT: a small, vehicle-mounted thermal sensor that scans the pavemen
 From there, we designed and modeled the core components of our device (thermal camera, microcontroller, protective housing), designed the device and enclosure, and developed product-packaging concepts for marketing and retail. We mapped and produced both a 3D-modeled hardware prototype (for mounting/enclosure design) and an online app/UX prototype. We also outlined a concrete testing plan—cold-room testing followed by on-road trials along with AI training for our devices.
 On the business side, we created a financial plan demonstrating our costs, profits, etc. Our financial plan includes a target of ~$350 build cost and a ~$500 price, with break-even around 440 units. We also identified and researched our first users/ target markets (working commuters 20–65), mapped channels (car company partners, e-commerce, retail auto shops), and created a marketing plan of VR demos so people could “see” hazard detection in action and test out our AI models for us to gather live data. We presented a 20 minute live pitch to industry professionals—top professors, engineers in this space, and actual investors—and folded their feedback into our next steps. In the end, we delivered a one-page pitch, a five-page report, a financial model, a product video, an app UX, and both the 3D-modeled and online prototypes.
 
+**Project Details**
+* Collaborated with a team of 6 members to innovate and solve a Canadian transportation issue. 
+* Identified and researched a real safety gap by surveying 100+ commuters across Canada about winter driving and black ice.
+* Led market research and analyzing market opportunities, referencing existing tools and technology, interviewing commuters, and translating findings into clear requirements (early warning, easy install, affordable price) for our device.
+* Led the design of ICELERT, a small car-mounted thermal sensor + app that warns drivers about icy roads ~30 m ahead.
+* Proposed and designed key core components of our device (thermal camera, microcontroller, enclosure, packaging) and collaborated with other members to model a 3D prototype for mounting and durability.
+* Built an online app/UX prototype and outlined signal-processing logic for detecting dangerous surface conditions.
+* Collaborated and Contacted/connected with two UofT civil engineering professors to check feasibility, testing conditions, and deployment constraints as well as gain more insight and research on our issue and potential setbacks.
+* Presented the project to industry engineers, professors, and investors and integrated their feedback into the project's next steps.
+* Developed a product testing plan (cold-room tests → on-road trials + AI training and development plans) to confirm performance in real conditions.
+* Planned and researched go-to-market and marketing strategies: Target Market(working commuters 20–65), channels (car manufacturing partners, e-commerce, auto shops), and proposed VR demos for AI data training and Mass marketing.
+* Produced deliverables: one-page pitch, 5-page report, financial model, product video, app UX, and packaging concepts.
+* Strengthened skills in user research, 3D modeling, basic product designing, budgeting, pitching, and team leadership.
+    
 **PROBLEM**
 <br>Heat generating car in some way
 * **Stakeholders + Aspects**
