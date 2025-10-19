@@ -30,7 +30,7 @@ redirect_from:
 
 ![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shad3.jpeg)
 
-<br><a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject-1" target='_blank'><i>**3. Brown University Pre-college leadership program - Social change and leadership - community social issue project 2024 (2024)**</i></a>
+<br><a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject-1" target='_blank'><i>**3. Brown University Pre-college leadership program - Social change and leadership - community social issue project 2024**</i></a>
 <br>**Topic:** The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity
 * Completed under the mentorship of a Brown University professor as part of the Leadership and Social Change course.
 * Researched the effects of cultural disconnect among youth and proposed engagement-based solutions for community improvement.
