@@ -55,11 +55,10 @@ collection: portfolio
 * **Collaborated on the LT Social Science Research Project, led by Professor Tao Wang from the University of Toronto (05/2024 - 11/2024)** 
   * Certificate of Completion
   * Learning Dedication Award
-* **Participate on Summer fairs and open-air movies night as sales angels to donate to charity (08/2024)**
-  * Participated as a Sales Angel at various community events to support local charitable initiatives
-  * Assisted in selling snacks, drinks, and event merchandise during summer fairs and outdoor movie nights
-  * Engaged with attendees to promote fundraising goals and raise awareness about the supported charities
-  * Helped raise funds through customer service, teamwork, and active participation in event operations
+* **Go with Love Charity event for Sick Kids (with non-profit: leading tomorrow) (08/2024)**
+  * Participated in a Bazaar-style, Art Auction, as a Vendor with proceeds donated 100% to the SickKids Foundation.
+  * Participated as a sales ambassador, helping to sell all handmade items.
+  * Collaborated with a friend to prepare handmade items for the Bazaar (Handmade Jewellery, and Art)
 * **Brown University, Pre-College course in Leadership and Social Change (06/2024 - 07/2024)**
   * Completed an independent research project under the guidance of a Brown University assistant professor
   * Investigated the social impact of limited cultural awareness among youth in Markham, one of Canada’s most diverse cities
