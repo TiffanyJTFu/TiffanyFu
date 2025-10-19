@@ -20,9 +20,11 @@ After collecting my data, I will create/analyze a presentation (with data graphs
 * Created synthetic teen personas reflecting common stressors among adolescents (academics, family conflict, sleep, social pressure) for standardized testing.
   * Engineered synthetic adolescent personas to safely simulate high-risk scenarios without human subjects or identifiable data.
   * Designed IRB-eligible, non-human-subjects personas enabling low-risk evaluation of AI support tools.
-  * Built structured synthetic user profiles with scripted backstories and goals to control for variability in chatbot trials.
- 
-* Mentored by Prof. Ganesh Mani (Carnegie Mellon); Phase I (design/pilots) completed; Phase II (full data collection/analysis) in progress, with conclusions forthcoming.
+  * Built structured synthetic user profiles with scripted backstories and goals to control for variability in chatbot trials. 
+* Currently testing multiple AI systems; will synthesize strengths/weaknesses into a prioritized remediation roadmap.
+* Will create + deliver scientific report of results + presentation (with graphs): a ranked model leaderboard, prompt best-practices playbook, clear data visualizations, and deployment guidelines with embedded crisis-escalation pathways.
+* Engineering a crisis-aware, prototype, an AI-powered chatbot to (augment, not replace) clinical care mental health, which will utilize safety guardrails from study results.
+
 
 **Project Details**
 <br>**Phase I: Recruitment and Team Formation**
