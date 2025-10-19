@@ -21,7 +21,7 @@ It outlines a semester of low-cost, high-engagement modules—calligraphy and ot
 * Packaged and prepared for future rollout by me or other clubs; positioned to reduce bias and advance multicultural representation; not yet deployed. 
 * Planning to reach out to 1000 schools across Canada to help implement this project. 
     
-<br>**Action Plan**
+**Action Plan**
 <br>To address the ongoing issue of anti-Asian discrimination and the misrepresentation of Chinese culture, this action plan proposes the creation of a Chinese Cultural Club at school. The goal is to foster a safe, inclusive, and engaging space where students can explore, share, and celebrate Chinese heritage through hands-on cultural activities such as calligraphy, traditional crafts, and storytelling.
 
 The club aims to raise awareness, strengthen cultural identity, and promote understanding among peers. With a strong foundation in school—supported by executive members, a teacher advisor, and a strategic social media presence—the club is designed to grow sustainably. Fundraising through events and online engagement will help support the club's operations.
