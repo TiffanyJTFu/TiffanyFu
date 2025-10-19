@@ -1,18 +1,16 @@
 ---
-title: "Social Science Research Project 2024"
+title: "Mental Health AI Chatbot Project 2025"
 collection: teaching
 type: ""
-permalink: /teaching/SocialScienceResearchProject
+permalink: /teaching/MentalHealthAIChatbotProject
 ---
 ![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/ai1.png)
-<br>**Project Topic:** Cross-cultural Education Methods and Adolescents' Physical and Mental Health
-<br>**Research Mentor**: Dr. Tao Wang (Assistant Professor at the School of Information, University of Toronto)
+<br>**Project Topic:** Mental Health AI Chatbot Project
+<br>**Research Mentor**: Prof. Ganesh Mani (Carnegie Mellon University)
 <br><br>**Project Background**
-<br>In the context of globalization, increasing attention has been paid to the relationship between the educational practices of immigrant families and the physical and mental health of adolescents. Young people from immigrant backgrounds face unique challenges such as cultural conflict, identity issues, and the pressure to adapt to a new environment. These stressors can have significant impacts on their well-being, with reported cases of depression and even suicide. At the same time, immigrant parents also face difficulties in navigating parenting and supporting their children in a new cultural and social context.
-
-These pressures should not be borne by individual families alone—they are societal challenges that require collective awareness and support.
-
-To address this need, Leading Tomorrow, a non-profit organization, has launched a social research project titled “Cross-cultural Education Methods and Adolescents’ Physical and Mental Health.” The project aims to deepen understanding of how parenting and education styles within immigrant families affect adolescents’ mental health and social adaptability. By conducting this research, the project seeks to identify key factors influencing youth development, providing a scientific basis for more effective support strategies and interventions that can help immigrant adolescents thrive.
+<br>In such a challenging society where mental health related issues are at an all-time high, I watched how stress can turn from a feeling into a lifestyle. Among adolescents, anxiety burnout is so common or rather inevitable—yet access to real mental-health care was hard. Whether it's cost, stigma, lack of accessibility or other social factors I firmly believe that mental health should be accessible for everyone. Ever since the rise of AI chatbots and the use of AI in general and how powerful it can be at imitating humans, I began with a focused question: Can accessible AI chatbots credibly support the mental health and strain for teens who face cultural stigma, social barriers, or financial limits to traditional care? 
+With guidance from distinguished faculty professor Dr. Ganesh Mani (Carnegie Mellon), I reviewed and analyzed a recent mixed-methods study comparing human therapists with large-language-model responses to therapeutic communication and used it as a template. I then surveyed widely available AI systems and built a four-step method: (1) create a concise checklist of counseling moves commonly used by school nurses and therapists—validation, open questions, concrete next steps, safety language, and referrals; to better judge the performance of each AI models (2) design synthetic teen/adolescent personas reflecting comment prevalent issues in their daily lives (anxiety, family conflict, academic stress, sleep disruption) to avoid human-subjects risk; (3) script standardized scenarios and collect full chatbot dialogues; and (4) score each exchange against the checklist, documenting strengths and failure modes (e.g., minimization, vague advice, missing crisis guidance). 
+After collecting my data, I will create/analyze a presentation (with data graphs) and scientific report of my research. This will include: My conclusions on my research, ranked AI model performance, and recommended prompts and systems for best usage. The project addresses access and quality gaps by identifying which AI tools most closely approximate supportive first-line communication for youth who cannot easily reach clinicians advocating for more accessibility and investments in the mental health of youths—while clearly stating limits, emphasizing crisis-referral pathways, and positioning AI as a complement, not a substitute, for professional care. While I am currently working on the first phase of my research, I am hoping to move onto the 2nd phase of my research on the actual data collection, all while focusing on my goal of being able to create an AI prototype chatbox to eventually reach my goal of helping youths and adolescents in having more accessible mental health without them worrying about societal interference and pressure.
 
 **Project Objectives**
 * **Raise social awareness:** Promote care and responsibility for the physical and mental health of adolescents from immigrant families.
@@ -21,7 +19,7 @@ To address this need, Leading Tomorrow, a non-profit organization, has launched 
 
 * **Generate scientific insight:** Understand the impact of parenting and educational methods on youth development.
 
-**Project Timeline and Details**
+**Project Details**
 <br>**Phase I: Recruitment and Team Formation**
 <br>**Timeframe:** April 20 – May 10, 2024
 <br>**Eligibility:** Students entering Grades 8–12 in September 2024; strong academic performance; interest in social issues; strong sense of teamwork.
