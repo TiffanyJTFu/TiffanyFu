@@ -13,6 +13,14 @@ paperurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/Step 8B_ Action plan Fi
 
 It outlines a semester of low-cost, high-engagement modules—calligraphy and other realistic and fun workshops, foodways and language mini-lessons—paired with outreach scripts for social media, and reflection prompts for improvements. To make the case, I produced an impact presentation video; to make it actionable, I also wrote an implementation report with budget templates, roles, timelines, and risk-mitigation steps for sustainability. I left with tangible tools and a concrete feasible plan that any student team can adopt immediately. This project matters to me because it turns such a large social issue into structured learning opportunities. It offers anyone a practical, replicable path schools and communities can use to reduce bias and strengthen cross-cultural understanding of not just my culture but all cultures as well. 
 
+**Project Details**
+* Investigated anti-Asian hate as a case study and interacted with students/teachers to surface system gaps not just in asian hate, but systematic multi-culturalism issues as well—misinformation, one-note representation, and too few structured chances to connect across cultures.
+* Designed a launch-ready semester plan that starts with Asian cultural modules and scales to other cultures—hands-on calligraphy/knot-tying, foodways, language micro-lessons, and storytelling circles to build real cross-cultural contact.
+* Engineered a plug-and-play toolkit (lesson outlines, outreach scripts, reflection prompts) so any student team can run inclusive programming immediately and adapt it for multiple cultures.
+* Produced an impact video and authored an implementation guide (budgets, roles, timeline, simple risk checks) to make rollout painless and sustainable.
+* Packaged and prepared for future rollout by me or other clubs; positioned to reduce bias and advance multicultural representation; not yet deployed. 
+* Planning to reach out to 1000 schools across Canada to help implement this project. 
+    
 <br><br>**Action Plan**
 <br>To address the ongoing issue of anti-Asian discrimination and the misrepresentation of Chinese culture, this action plan proposes the creation of a Chinese Cultural Club at school. The goal is to foster a safe, inclusive, and engaging space where students can explore, share, and celebrate Chinese heritage through hands-on cultural activities such as calligraphy, traditional crafts, and storytelling.
 
