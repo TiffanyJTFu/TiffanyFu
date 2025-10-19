@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Research & Innovation Projects
+## Research, Innovation, and AI Chatbot Projects
 
 <a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/MentalHealthAIChatbotProject" target='_blank'><i>**1. Mental Health AI Chatbot Project 2025**</i></a>
 <br>**Project Topic:** Mental Health AI Chatbot Project
