@@ -126,7 +126,7 @@ Helped prepare and sell baked goods at school fundraisers to support charities.
   
 WORK EXPERIENCE
 ======
-* **Cashier March 2022 - Present Paris Groceries, Toronto, Ontario** 
+* **Cashier July 2023 - August 2025 Paris Groceries, Toronto, Ontario** 
   * Proactively assisted customers in making informed purchasing decisions - Vigorously managed and 
   optimized inventory levels, ensuring seamless stock availability
 
