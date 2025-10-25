@@ -124,15 +124,6 @@ Helped prepare and sell baked goods at school fundraisers to support charities.
 * **Olympian Swimming Certification**
   * Level 12  
   
-WORK EXPERIENCE
-======
-* **Cashier July 2023 - August 2025 Paris Groceries, Toronto, Ontario** 
-  * Proactively assisted customers in making informed purchasing decisions - Vigorously managed and 
-  optimized inventory levels, ensuring seamless stock availability
-
-  * Delivered superior customer service by promptly addressing and resolving customer issues 
-  * Led new hires through rigorous training, significantly boosting team performance and efficiency 
-
 VOLUNTEER EXPERIENCE
 ======
  * **Community Outreach Volunteer – MPP Team 08/2025**
