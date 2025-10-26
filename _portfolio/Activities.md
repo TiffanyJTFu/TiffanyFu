@@ -5,13 +5,13 @@ collection: portfolio
 ---
 * **Community Outreach Volunteer – MPP Team 08/2025**
   * Volunteered with Markham MPP Billy Pang’s team to distribute community information leaflets and support local outreach efforts
-* **Model United Nations (Model UN) Club 2024 -Precent**
+* **Model United Nations (Model UN) Club 2024 - 2025**
   * Participate to Toronto MUN (Module UN) competition 03/2025
   * Participated in mock UN simulations to develop diplomacy, public speaking, and negotiation skills.
   * Represented various countries in debates on global issues, following formal UN procedures.  
   * Researched international policies and collaborated with peers to draft resolutions and deliver speeches
   * Engaged in regular club meetings, workshops, and internal conferences to strengthen leadership and global awareness
-* **Mock Trial Club 2024 -Precent**
+* **Mock Trial Club 2024 - 2025**
   * Participated in simulated courtroom trials to develop skills in public speaking, critical thinking, and legal reasoning
   * Collaborated with team members to prepare case materials, construct arguments, and role-play as attorneys and witnesses
   * Engaged in legal discussions and competitive practice sessions to improve courtroom etiquette and debate strategies.
