@@ -72,9 +72,8 @@ collection: portfolio
 * **Believe Dance Competition '24**
   * Solo - Diamond Rank, 2nd Place Overall Award
   * Judge's Choice Award
-* **Royal Academy of Dance Certification**
-  * Intermediate
-  * Intermediate Foundations
+* **Royal Academy of Dance Certification** 
+  * RAD Level 3 Certificate in Ballet (Intermediate Vocational Level)
 * **Beijing Dance Academy - Chinese Dance Certification**
   * Level 6
 * **Olympian Swimming Certification**
