@@ -7,6 +7,8 @@ slidesurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/Action plan Presentati
 paperurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/Step 8B_ Action plan Final Report - Tiffany Fu.pdf'
 ---
 
+[More information here](http://exampleurl.com)
+
 ![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialsciencebrown.png)
 **Project Topic:** The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity
 <br><br>**Project Background**
