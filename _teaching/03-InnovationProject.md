@@ -3,6 +3,8 @@ title: "ICELERT – Innovation Prototype Project - Shad York 2025"
 collection: teaching
 type: ""
 permalink: /teaching/InnovationProject
+slidesurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/DE 60s VID.mp4'
+paperurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan.pdf'
 ---
 ![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shadproject1.png)
 <br>**Project: ICELERT – Innovation Prototype Project** 
@@ -90,9 +92,7 @@ On the business side, we created a financial plan demonstrating our costs, profi
 
 ![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shad3.jpeg)
 
-<a href="https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan.pdf" target="_blank" rel="noopener noreferrer">Download Business Plan
-</a> | <a href="https://tiffanyjtfu.github.io/TiffanyFu/files/DE 60s VID.mp4" target="_blank" rel="noopener noreferrer">Watch ICELERT Pitch</a>&nbsp;
-<br>
+
 
 
 
