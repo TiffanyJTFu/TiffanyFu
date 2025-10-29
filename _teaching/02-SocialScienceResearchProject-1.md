@@ -7,10 +7,13 @@ slidesurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/Action plan Presentati
 paperurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/Step 8B_ Action plan Final Report - Tiffany Fu.pdf'
 ---
 
-[More information here](http://exampleurl.com)
-
 ![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialsciencebrown.png)
 **Project Topic:** The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity
+
+<a href="https://tiffanyjtfu.github.io/TiffanyFu/files/Step 8B_ Action plan Final Report - Tiffany Fu.pdf" target="_blank" rel="noopener noreferrer">Download Action Plan Report
+</a> | <a href="https://tiffanyjtfu.github.io/TiffanyFu/files/Action plan Presentation.mp4" target="_blank" rel="noopener noreferrer">Presentation Video</a>&nbsp;
+<br>
+
 <br><br>**Project Background**
 <br>At Brown’s Leadership & Social Change program, I focused on a problem I felt close to: a spike in anti-Asian bias and how little many peers knew about Asian cultures. I didn’t want another abstract paper; I wanted a plan people could use. With guidance from a Brown mentor, I did independent research—researching about the rising anti-Asian racism and reviewing possible school-based interventions and communicating informally with classmates and teachers about what they were seeing. The pattern was clear: misinformation, shallow representation, and few structured chances for positive contact with my culture. From that analysis, I built a ready-to-launch action plan.
 
