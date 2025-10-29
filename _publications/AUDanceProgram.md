@@ -9,3 +9,5 @@ excerpt: 'Enrolled in the elite Arts Unionville Dance Program at Unionville High
 As a dedicated student in the prestigious Arts Unionville Dance Program at Unionville High School, Tiffany has received advanced, conservatory-style training in contemporary dance, jazz, hip hop, and stage performance. This intensive program has allowed her to cultivate strong technical skills, artistic expression, and confident stage presence.
 
 She regularly performs in both school productions and community events, using dance as a meaningful form of storytelling and cultural expression. Her involvement in the program reflects a deep commitment to the performing arts and a passion for connecting with diverse audiences through movement and creativity.
+
+![mun](https://tiffanyjtfu.github.io/TiffanyFu/images/mun.jpg)
