@@ -3,6 +3,8 @@ title: "Brown University Pre-college leadership program - Social change and lead
 collection: teaching
 type: ""
 permalink: /teaching/SocialScienceResearchProject-1
+slidesurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/Action plan Presentation.mp4'
+paperurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/Step 8B_ Action plan Final Report - Tiffany Fu.pdf'
 ---
 
 [Download Action Plan Report](https://tiffanyjtfu.github.io/TiffanyFu/files/Step%208B_%20Action%20plan%20Final%20Report%20-%20Tiffany%20Fu.pdf) | [Presentation Video](https://tiffanyjtfu.github.io/TiffanyFu/files/Action%20plan%20Presentation.mp4)
