@@ -40,7 +40,7 @@ To address this need, Leading Tomorrow, a non-profit organization, has launched 
 * Professional communication and knowledge translation  
 
 **Project Supervisor**
-<br>The project was led by **Dr. Tao Wang**, Assistant Professor at the School of Information, University of Toronto. Dr. Wang specializes in online communication, knowledge management, and behavioral analysis. His research integrates social psychology with quantitative methods such as natural language processing and machine learning. Passionate about youth development, Dr. Wang has been an active volunteer in several youth organizations and provided mentorship and academic guidance throughout the project.
+<br>The project was led by **Dr. Tao Wang**, **Assistant Professor** at the School of Information, **University of Toronto**. Dr. Wang specializes in online communication, knowledge management, and behavioral analysis. His research integrates social psychology with quantitative methods such as natural language processing and machine learning. Passionate about youth development, Dr. Wang has been an active volunteer in several youth organizations and provided mentorship and academic guidance throughout the project.
 
 
 ![SocialScience12](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject12.jpg)
