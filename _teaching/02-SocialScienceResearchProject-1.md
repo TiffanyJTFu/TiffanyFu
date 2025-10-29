@@ -49,3 +49,6 @@ A six-month review will be used as the first major checkpoint to assess outcomes
 
 The greatest challenge was adapting to the level of depth required in planning, but it ultimately became one of the most rewarding aspects. Completing the plan gave me a strong sense of accomplishment and reaffirmed my commitment to making a positive impact. This experience not only strengthened my leadership and planning abilities, but also reinforced my belief in the importance of cultural representation and youth-driven change.
 
+<a href="https://tiffanyjtfu.github.io/TiffanyFu/files/Step 8B_ Action plan Final Report - Tiffany Fu.pdf" target="_blank" rel="noopener noreferrer">Download Action Plan Report
+</a> | <a href="https://tiffanyjtfu.github.io/TiffanyFu/files/Action plan Presentation.mp4" target="_blank" rel="noopener noreferrer">Presentation Video</a>&nbsp;
+<br>
