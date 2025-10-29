@@ -7,7 +7,7 @@ paperurl3: 'https://tiffanyjtfu.github.io/TiffanyFu/files/AMH_PS_0608.pdf'
 ---
 ![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject1.jpg)
 <br>**Project Topic:** Cross-cultural Education Methods and Adolescents' Physical and Mental Health
-<br>**Research Mentor**: Dr. Tao Wang (Assistant Professor at the School of Information, University of Toronto)
+<br>**Research Mentor**: **Dr. Tao Wang** (**Assistant Professor** at the School of Information, **University of Toronto**)
 
 <a href="https://tiffanyjtfu.github.io/TiffanyFu/files/AMH_PS_0608.pdf" target="_blank" rel="noopener noreferrer">Download Report</a>&nbsp;
 <br><br>**Project Background**
