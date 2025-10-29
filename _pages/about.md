@@ -45,12 +45,12 @@ redirect_from:
 <br>**Project Topic:** Cross-Cultural Education Methods and Adolescents’ Physical and Mental Health
 <br>**Research Mentor**: Dr. Tao Wang (Assistant Professor at the School of Information, University of Toronto)
 * Conducted literature review, assisted in survey design, and supported data collection and analysis.<br>
-  
-![SocialScience11](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject11.JPG)
-![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject1.jpg)
 
 <a href="https://tiffanyjtfu.github.io/TiffanyFu/files/AMH_PS_0608.pdf" target="_blank" rel="noopener noreferrer">Download Report</a>&nbsp;
 <br>
+
+![SocialScience11](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject11.JPG)
+![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject1.jpg)
 
 Hi, I’m Tiffany — a dynamic and creative student with a **deep passion** for **cultural expression, community engagement, and social impact**. I’ve trained in **Ballet**, **Classical Chinese Dance**, and **Modern Dance** for **over 13 years**, and I’m currently pursuing certification through the **Arts Unionville Dance Program** at **Unionville High School in Ontario**. I enjoy sharing my cultural heritage through performance, blending tradition with storytelling, and regularly appear at **multicultural festivals** and **community events**.
 
