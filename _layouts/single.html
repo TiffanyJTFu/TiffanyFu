@@ -47,6 +47,12 @@ layout: default
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}" target="_blank">Download Paper</a> | <a href="{{ page.slidesurl }}" target="_blank">Download Slides</a></p>
          {% elsif page.paperurl and page.slidesurl %}
           <p style="font-size: smaller"><a href="{{ page.paperurl }}" target="_blank">Download Paper</a> | <a href="{{ page.slidesurl }}" target="_blank">Presentation Video</a></p>
+        {% elsif post.paperurl1 and post.slidesurl1 %}
+          <p><a href="{{ post.paperurl1 }}" target="_blank">Download Action Plan Report</a> | <a href="{{ post.slidesurl1 }}" target="_blank">Presentation Video</a></p>
+        {% elsif post.paperurl2 and post.slidesurl2 %}
+          <p><a href="{{ post.paperurl2 }}" target="_blank">Download Business Plan</a> | <a href="{{ post.slidesurl2 }}" target="_blank">Watch ICELERT Pitch</a></p>
+        {% elsif post.paperurl3 %}
+          <p><a href="{{ post.paperurl3 }}" target="_blank">Download Report</a></p>
         {% elsif page.citation and page.paperurl and page.bibtexurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}" target="_blank">Download Paper</a> | <a href="{{ page.bibtexurl }}" target="_blank">Download Bibtex</a></p>
         {% elsif page.citation and page.paperurl %}
