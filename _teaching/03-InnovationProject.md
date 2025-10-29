@@ -6,6 +6,7 @@ permalink: /teaching/InnovationProject
 ---
 ![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shadproject1.png)
 <br>**Project: ICELERT – Innovation Prototype Project** 
+
 <a href="https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan.pdf" target="_blank" rel="noopener noreferrer">Download Business Plan
 </a> | <a href="https://tiffanyjtfu.github.io/TiffanyFu/files/DE 60s VID.mp4" target="_blank" rel="noopener noreferrer">Watch ICELERT Pitch</a>&nbsp;
 <br><br>**Project Background**
