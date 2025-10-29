@@ -17,59 +17,27 @@ These pressures should not be borne by individual families alone—they are soci
 
 To address this need, Leading Tomorrow, a non-profit organization, has launched a social research project titled “Cross-cultural Education Methods and Adolescents’ Physical and Mental Health.” The project aims to deepen understanding of how parenting and education styles within immigrant families affect adolescents’ mental health and social adaptability. By conducting this research, the project seeks to identify key factors influencing youth development, providing a scientific basis for more effective support strategies and interventions that can help immigrant adolescents thrive.
 
-**Project Objectives**
-* **Raise social awareness:** Promote care and responsibility for the physical and mental health of adolescents from immigrant families.
+**Research Focus**
+* To examine how parenting styles relate to teen stress, mood, sleep, and help-seeking behaviors in immigrant families across the Greater Toronto Area (GTA).  
 
-* **Develop research skills:** Provide participants with foundational knowledge and skills in social science research.
+**Key Contributions**
+* Identified and researched a community need: teen mental-health stressors in immigrant families (expectations, language/culture gaps, access to youth-friendly services).  
+* Collaborated with a team of students and framed a research question with Dr. Tao Wang.
+* Reviewed prior studies, analyzed research constructs and methods, and developed ethics-aligned research procedures (assent/consent, confidentiality, data handling).
+* Recruited, scheduled, and interviewed 150+ teen–parent pairs across the GTA using respectful, structured interviews.
+* Led a data-collection team and standardized procedures to ensure quality and cultural sensitivity.
+* Collaborated with team members to build a Python workflow for data cleaning, labeling, analysis, and figure generation.
+* Compiled datasets and a codebook; contributed figures and summary sections to the team’s manuscript (under review in the *Journal of Minority and Immigrant Health*).
+* Prepared and delivered presentations summarizing study purpose, methods, and results for academic and school audiences.
+* Translated findings into practical takeaways for schools and families (e.g., communication tips, routine-building, culturally aware supports).
+* Earned a **Learning Dedication Award** for leadership, persistence, and continued growth in psychology, sociology, and the social sciences.  
 
-* **Generate scientific insight:** Understand the impact of parenting and educational methods on youth development.
-
-**Project Timeline and Details**
-<br>**Phase I: Recruitment and Team Formation**
-<br>**Timeframe:** April 20 – May 10, 2024
-<br>**Eligibility:** Students entering Grades 8–12 in September 2024; strong academic performance; interest in social issues; strong sense of teamwork.
-
-**Phase II: Research Training**
-* **Lesson 1: Introduction to Social Science Research**
-<br>**Date:** May 18, 2024
-<br>**Topics:** Importance, principles, and methods of social science research (qualitative and quantitative); research ethics; how to design a questionnaire; understanding data reliability and validity.
-
-* **Lesson 2: Topic Exploration and Survey Design**
-<br>**Date:** May 25, 2024
-<br>**Topics:** Cross-cultural parenting methods; impacts of parenting on adolescent well-being; group discussions and case studies; group work on first draft of survey questionnaire.
-
-* **Lesson 3: Research Design and Field Techniques**
-<br>**Date:** June 1, 2024
-<br>**Topics:** Refining research questions; finalizing questionnaire design; sampling methods; field research techniques.
-
-**Phase III: Field Survey and Interviews**
-<br>**Timeframe: June 29 – August 16, 2024**
-<br>**Activities:**
-
-* Students work in groups to conduct field research through surveys and in-depth interviews.
-
-* Each group explores a unique sub-topic related to immigrant parenting and adolescent health.
-
-* Regular online meetings to discuss progress, challenges, and solutions.
-
-**Phase IV: Data Analysis and Report Writing**
-* **Lesson 4: Data Analysis Skills**
-<br>**Date:** August 17, 2024
-<br>**Topics:** Data organization and analysis techniques; introduction to using Python for social research.
-
-* **Report Writing Period: August 18 – September 17, 2024**
-<br>**Activities:** Group-based data analysis, interpretation of findings, and report writing. Selected reports will be considered for publication.
-
-**Phase V: Results Sharing and Feedback**
-<br>**Date:** Late October 2024
-<br>**Format:** presentation session
-<br>**Activities:**
-
-* Participants present their findings.
-
-* Experts are invited to provide feedback and commentary.
-
-* Open discussions between students and experts to encourage reflection and growth.
+**Skills Developed**
+* Literature review and research ethics
+* Qualitative interviewing and participant engagement
+* Python coding, data cleaning, visualization, and figure generation
+* Team coordination and project management
+* Professional communication and knowledge translation  
 
 **Project Supervisor**
 <br>The project was led by **Dr. Tao Wang**, Assistant Professor at the School of Information, University of Toronto. Dr. Wang specializes in online communication, knowledge management, and behavioral analysis. His research integrates social psychology with quantitative methods such as natural language processing and machine learning. Passionate about youth development, Dr. Wang has been an active volunteer in several youth organizations and provided mentorship and academic guidance throughout the project.
