@@ -10,4 +10,4 @@ As a dedicated student in the prestigious Arts Unionville Dance Program at Union
 
 She regularly performs in both school productions and community events, using dance as a meaningful form of storytelling and cultural expression. Her involvement in the program reflects a deep commitment to the performing arts and a passion for connecting with diverse audiences through movement and creativity.
 
-![mun](https://tiffanyjtfu.github.io/TiffanyFu/images/mun.jpg)
+![mun](https://tiffanyjtfu.github.io/TiffanyFu/images/schoolau1.jpg)
