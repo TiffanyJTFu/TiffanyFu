@@ -5,7 +5,7 @@ type: ""
 permalink: /teaching/SocialScienceResearchProject-1
 ---
 
-- [Download Action Plan Report](https://tiffanyjtfu.github.io/TiffanyFu/files/Step%208B_%20Action%20plan%20Final%20Report%20-%20Tiffany%20Fu.pdf) | [Presentation Video](https://tiffanyjtfu.github.io/TiffanyFu/files/Action%20plan%20Presentation.mp4)
+[Download Action Plan Report](https://tiffanyjtfu.github.io/TiffanyFu/files/Step%208B_%20Action%20plan%20Final%20Report%20-%20Tiffany%20Fu.pdf) | [Presentation Video](https://tiffanyjtfu.github.io/TiffanyFu/files/Action%20plan%20Presentation.mp4)
 
 
 ![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialsciencebrown.png)
