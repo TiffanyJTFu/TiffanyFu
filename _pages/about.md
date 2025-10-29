@@ -49,6 +49,9 @@ redirect_from:
 ![SocialScience11](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject11.JPG)
 ![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject1.jpg)
 
+<a href="https://tiffanyjtfu.github.io/TiffanyFu/files/AMH_PS_0608.pdf" target="_blank" rel="noopener noreferrer">Download Report</a>&nbsp;
+<br>
+
 Hi, I’m Tiffany — a dynamic and creative student with a **deep passion** for **cultural expression, community engagement, and social impact**. I’ve trained in **Ballet**, **Classical Chinese Dance**, and **Modern Dance** for **over 13 years**, and I’m currently pursuing certification through the **Arts Unionville Dance Program** at **Unionville High School in Ontario**. I enjoy sharing my cultural heritage through performance, blending tradition with storytelling, and regularly appear at **multicultural festivals** and **community events**.
 
 Beyond the performing arts, I’m actively involved in **non-profit organizations**. I’ve served as both Sponsorship Coordinator and Outreach Executive, where I helped **plan events, coordinated sponsor outreach, managed logistics, and supported day-of execution**. My work included researching and **contacting potential sponsors, developing sponsorship packages, and securing both financial and in-kind contributions to ensure successful events.
