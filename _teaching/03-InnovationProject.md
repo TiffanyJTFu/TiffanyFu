@@ -6,9 +6,10 @@ permalink: /teaching/InnovationProject
 slidesurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/DE 60s VID.mp4'
 paperurl: 'https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan.pdf'
 ---
-
 ![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shadproject1.png)
 <br>**Project: ICELERT – Innovation Prototype Project** 
+<a href="https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan.pdf" target="_blank" rel="noopener noreferrer">Download Business Plan
+</a> | <a href="https://tiffanyjtfu.github.io/TiffanyFu/files/DE 60s VID.mp4" target="_blank" rel="noopener noreferrer">Watch ICELERT Pitch</a>&nbsp;
 <br><br>**Project Background**
 At SHAD, my team and I tackled a problem every Canadian driver knows too well: winter roads. Canada sees about 160,000 crashes a year, and roughly 30% are tied to winter conditions. Our question was simple: how can we warn drivers about black ice in real time-without waiting years for new road infrastructure?
 
